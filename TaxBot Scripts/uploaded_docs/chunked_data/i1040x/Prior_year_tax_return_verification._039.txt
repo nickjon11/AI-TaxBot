@@ -1,0 +1,5 @@
+Chunk Name: Prior year tax return verification.
+Summary: If you haven't filed or your prior year tax return is not processed, enter “$0” for prior year AGI verification. To obtain a free transcript of your return, call the IRS at 800-908-9946 or visit IRS.gov/Transcript. If you filed electronically, you can use your prior year PIN to verify your identity.
+
+Chunk Content:
+. If you didn't file a prior year income tax return, or we have not yet processed or only recently processed your prior year tax return, enter “$0” as the prior year AGI verification. If you don't have your prior year income tax return, call the IRS at 8009089946 to get a free transcript of your return or go to IRS.gov/Transcript. If you filed electronically last year, you, and your spouse if filing jointly, may use your prior year PIN to verify your identity instead of your prior year AGI. The prior year PIN is the fivedigit PIN you used to electronically sign your prior year return. Practitioner PIN. The Practitioner PIN method allows you to authorize your tax practitioner to enter or generate your PIN. TIP CAUTION ! 10 Instructions for Form 1040X (Rev. September 2024)

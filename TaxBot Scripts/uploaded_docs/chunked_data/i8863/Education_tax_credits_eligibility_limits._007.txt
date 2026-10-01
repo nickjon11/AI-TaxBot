@@ -1,0 +1,5 @@
+Chunk Name: Education tax credits eligibility limits.
+Summary: The American Opportunity Credit offers up to $2,500 per eligible student, while the Lifetime Learning Credit provides up to $2,000 per tax return. Both credits have a modified adjusted gross income limit of $180,000 for married couples filing jointly and $90,000 for single filers, heads of household, or qualifying surviving spouses.
+
+Chunk Content:
+. American Opportunity Credit  Lifetime Learning Credit Maximum credit Up to $2,500 credit per eligible student Up to $2,000 credit per return Limit on modified  adjusted gross income  (MAGI) $180,000 if married filing jointly;  $90,000 if single, head of household, or qualifying  surviving spouse $180,000 if married filing jointly;  $90,000 if single, head of household

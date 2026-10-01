@@ -1,0 +1,5 @@
+Chunk Name: State tax withholding instructions.
+Summary: If state income tax was withheld, report it in box 5, and include the state's abbreviated name and payer's state ID in box 6. Enter the state payment amount in box 7 if applicable. Provide Copy 1 to the state tax department and Copy 2 to the recipient for their state income tax return.
+
+Chunk Content:
+. If you withheld state income tax on this payment, you may enter it in box 5. In box 6, enter the abbreviated name of the state and the payer's state identification number. In box 7, you may enter the amount of the state payment. If a state tax department requires that you send them a paper copy of this form, use Copy 1 to provide information to the state tax department. Give Copy 2 to the recipient for use in filing the recipient's state income tax return. CAUTION ! Instr. for Forms 1099MISC and 1099NEC (Rev. 012024) 11

@@ -1,0 +1,5 @@
+Chunk Name: Pennsylvania personal income taxation rules.
+Summary: Pennsylvania's Personal Income Tax applies to all residents and part-year residents. Taxpayers are required to report their income and pay taxes accordingly. The tax rate is a flat rate applied to taxable income.
+
+Chunk Content:
+PA Tax Laws (PA Personal Income Tax)  Every Resident, partyear resident

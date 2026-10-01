@@ -1,0 +1,5 @@
+Chunk Name: Tax requirements for educational payments.
+Summary: Payments made in 2024 for academic periods starting in 2024 or the first three months of 2025 require a Tax Identification Number (TIN) by the due date of the 2024 return. Filers must include the educational institution's Employer Identification Number (EIN) on Form 8863, while students do not need to provide the EIN.
+
+Chunk Content:
+, supplies, and equipment) Payments for academic  periods Payments made in 2024 for academic periods beginning in 2024 or beginning in the first 3 months of 2025 TIN needed by filing due  date Filers and students must have been issued a TIN by the  due date of their 2024 return (including extensions) Students must have been issued a TIN by the due date of  their 2024 return (including extensions) Educational institution's  EIN You must provide the educational institution's employer  identification number (EIN) on your Form 8863 Educational institution’s employer identification number  (EIN) is not required on your Form 8863 Table 1

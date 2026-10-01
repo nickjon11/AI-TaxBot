@@ -1,0 +1,5 @@
+Chunk Name: Current year educational expense eligibility.
+Summary: Expenses must be paid for the student in the current year for academic periods starting in the current year but before April 1 of the following year.
+
+Chunk Content:
+. The expenses must have been paid for the  student in the current year for academic periods beginning in  the current year but before April 1 of the following year.

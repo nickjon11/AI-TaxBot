@@ -1,0 +1,218 @@
+[
+    {
+        "chunk_id": 1,
+        "chunk_name": "Tax filing instructions for students.",
+        "filename": "Tax_filing_instructions_for_students._001.txt",
+        "original_chunk_text": "2024 Instructions for Forms  1098E and 1098T Student Loan Interest Statement and Tuition Statement Department of the Treasury Internal Revenue Service Section references are to the Internal Revenue Code  unless otherwise noted. Future Developments For the latest information about developments related to  Forms 1098E and 1098T and their instructions, such as  legislation enacted after they were published, go to  IRS.gov/Form1098E or IRS.gov/Form1098T. Reminders General instructions. In addition to these specific  instructions, you should also use the current General  Instructions for Certain Information Returns. Those  general instructions include information about the  following topics.  Who must file.  When and where to file.  Electronic reporting.  Corrected and void returns.  Statements to recipients.  Taxpayer identification numbers (TINs).  Backup withholding.  Penalties.  Other general topics",
+        "summary": "The 2024 instructions for Forms 1098E and 1098T provide guidance on reporting student loan interest and tuition statements, with references to the Internal Revenue Code. For the latest updates and information on filing requirements, visit the IRS website. General instructions cover topics such as who must file, deadlines, electronic reporting, and penalties.",
+        "timestamp": "2025-04-21T21:11:32.352300",
+        "token_count": 185
+    },
+    {
+        "chunk_id": 2,
+        "chunk_name": "Filing and information requirements.",
+        "filename": "Filing_and_information_requirements._002.txt",
+        "original_chunk_text": ".  Penalties.  Other general topics. You can get the General Instructions for Certain  Information Returns at IRS.gov/1099GeneralInstructions  or go to IRS.gov/Form1098E or IRS.gov/Form1098T. Online fillable Copy B.  To ease statement furnishing  requirements, Copy B of Forms 1098E and 1098T are  fillable online in a PDF format, available at IRS.gov/ Form1098E or IRS.gov/Form1098T. You can complete  these copies online for furnishing statements to recipients. Form W9S. You may use Form W9S, Request for  Student\u2019s or Borrower\u2019s Taxpayer Identification Number  and Certification, to obtain the student\u2019s or borrower\u2019s  name, address, TIN, and student loan certification to be  used when filing Form 1098E or 1098T. Use of Form  W9S is optional; you may collect the information using  your own forms, such as admission or enrollment forms, or  financial aid applications. You may collect the student\u2019s or  borrower\u2019s information on paper or electronically. Electronic submission of Form W9S",
+        "summary": "You can access General Instructions for certain information returns and fillable online copies of Forms 1098E and 1098T at IRS.gov. Form W9S can be used to obtain a student's or borrower's taxpayer identification information for filing these forms, but its use is optional as you may collect the information through other means.",
+        "timestamp": "2025-04-21T21:11:34.509023",
+        "token_count": 240
+    },
+    {
+        "chunk_id": 3,
+        "chunk_name": "Electronic submission of Form W9S.",
+        "filename": "Electronic_submission_of_Form_W9S._003.txt",
+        "original_chunk_text": ". Electronic submission of Form W9S.  An  educational institution, insurer, or lender may establish a  system for students and borrowers to submit Form W9S  electronically, including by fax. Generally, the electronic  system must: 1. Ensure the information received is the information  sent and document all occasions of user access that  result in the submission, 2. Make reasonably certain the person accessing the  system and submitting the form is the person identified on  Form W9S, 3. Provide you with the same information as the paper Form W9S, and 4. Be able to supply a hard copy of the electronic Form W9S if the Internal Revenue Service requests it. Also, if an electronic Form W9S is used to obtain the  borrower\u2019s certification that all the loan proceeds are used  solely to pay qualified higher education expenses, your  electronic system must require, as the final entry in the  submission, an electronic signature by the borrower  whose name is on Form W9S",
+        "summary": "Educational institutions, insurers, or lenders can establish electronic systems for students and borrowers to submit Form W9S, including via fax. These systems must ensure accurate information transmission, verify the identity of the submitter, provide the same information as the paper form, and be able to supply a hard copy if requested by the IRS. Additionally, an electronic signature from the borrower is required to certify that loan proceeds are used solely for qualified higher education expenses.",
+        "timestamp": "2025-04-21T21:11:37.107425",
+        "token_count": 210
+    },
+    {
+        "chunk_id": 4,
+        "chunk_name": "Student loan interest reporting guidelines.",
+        "filename": "Student_loan_interest_reporting_guidelines._004.txt",
+        "original_chunk_text": ". The signature  authenticates and verifies the submission. See  Announcement 9827, which is on page 30 of Internal  Revenue Bulletin 199815 at IRS.gov/pub/irsirbs/ irb9815.pdf. Specific Instructions for Form 1098E File Form 1098E, Student Loan Interest Statement, if you  receive student loan interest of $600 or more from an  individual during the year in the course of your trade or  business. The $600 threshold applies to each borrower  regardless of the number of student loans obtained by that  borrower. However, you may file a separate Form 1098E  for each student loan of the borrower, or you may file one  Form 1098E for the interest from all student loans of the  borrower. Who must file. File Form 1098E if you are a financial  institution, governmental unit (or any of its subsidiary  agencies), educational institution, or any other person  who receives student loan interest of $600 or more from  an individual during the year in the course of your trade or  business",
+        "summary": "Form 1098E, Student Loan Interest Statement, must be filed if $600 or more in student loan interest is received from an individual during the year. This requirement applies to financial institutions, governmental units, educational institutions, and other entities involved in the trade or business of receiving such interest. You can file either a separate Form 1098E for each loan or one form for all loans from the same borrower.",
+        "timestamp": "2025-04-21T21:11:39.717189",
+        "token_count": 225
+    },
+    {
+        "chunk_id": 5,
+        "chunk_name": "Student loan interest reporting rules.",
+        "filename": "Student_loan_interest_reporting_rules._005.txt",
+        "original_chunk_text": ". If more than one person has a connection with the loan,  only the first person to receive the interest payment must  file Form 1098E. For example, a loan service or collection  agent receiving payments on behalf of the lender must file. Qualified student loan. To be reportable for 2024, a  student loan must be either:  Subsidized, guaranteed, financed, or otherwise treated  as a student loan under a program of the federal, state, or  local government, or of a postsecondary educational  institution; or  Certified by the borrower as a student loan incurred  solely to pay qualified higher education expenses. You  may use Form W9S to obtain the certification. Oct 2, 2023 Cat. No. 27990J Revolving accounts. Report interest paid on revolving  accounts, such as credit card accounts, only if the  borrower certifies that all the loan proceeds are solely  used to pay qualified higher education expenses. You do  not have to verify the borrower\u2019s actual use of the funds",
+        "summary": "Only the first person receiving interest payments on a loan must file Form 1098E if multiple parties are involved. For a student loan to be reportable in 2024, it must be either a qualified government or educational institution loan or certified by the borrower for qualified education expenses. Interest on revolving accounts, like credit cards, should only be reported if the borrower certifies the funds were used solely for qualified higher education expenses.",
+        "timestamp": "2025-04-21T21:11:51.497709",
+        "token_count": 217
+    },
+    {
+        "chunk_id": 6,
+        "chunk_name": "Reporting requirements for loan interest.",
+        "filename": "Reporting_requirements_for_loan_interest._006.txt",
+        "original_chunk_text": ".  Do not report interest on mixed use loans. Loans under qualified plans.  Do not report interest on  loans made under a qualified employer plan, as defined in  section 72(p)(4), or under a contract purchased under a  qualified employer plan within the meaning of section  72(p)(5). Additional information.  For more information about  reporting student loan interest, see Regulations section  1.6050S3. Statements to borrowers. If you are required to file  Form 1098E, you must provide a statement or acceptable  substitute, on paper or electronically, to the borrower. For  more information about the requirements to furnish a  statement to the borrower, see part M in the current  General Instructions for Certain Information Returns. Electronic delivery of Form 1098E",
+        "summary": "Do not report interest on mixed-use loans or loans made under qualified employer plans as defined in sections 72(p)(4) and 72(p)(5). If required to file Form 1098E, you must provide a statement to the borrower, either on paper or electronically. For more details on reporting student loan interest and furnishing statements, refer to the relevant regulations and instructions.",
+        "timestamp": "2025-04-21T21:11:54.241840",
+        "token_count": 165
+    },
+    {
+        "chunk_id": 7,
+        "chunk_name": "Electronic consent for Form 1098E.",
+        "filename": "Electronic_consent_for_Form_1098E._007.txt",
+        "original_chunk_text": ". Electronic delivery of Form 1098E. Educational  institutions, insurers, and lenders may present the option  to consent to receive Form 1098E electronically as part of  a global \u201cConsent To Do Business Electronically,\u201d  combining consent for electronic delivery of Form 1098E  along with other institutional student business functions  such as admissions, registration, billings, and direct  deposits. The global consent process must meet all the consent,  disclosure, format, notice, and access period  requirements for electronic furnishing of Forms 1098E in  accordance with the applicable regulations. For more  information about the requirements to furnish a statement  to each student, see part M in the current General  Instructions for Certain Information Returns. Truncating borrower\u2019s TIN on payee statements",
+        "summary": "Educational institutions, insurers, and lenders can offer electronic delivery of Form 1098E through a global consent process that includes other student business functions. This process must comply with all relevant regulations regarding consent, disclosure, and access. For detailed requirements on furnishing statements to students, refer to part M in the General Instructions for Certain Information Returns.",
+        "timestamp": "2025-04-21T21:11:56.885950",
+        "token_count": 164
+    },
+    {
+        "chunk_id": 8,
+        "chunk_name": "Truncation rules for borrower TIN.",
+        "filename": "Truncation_rules_for_borrower_TIN._008.txt",
+        "original_chunk_text": ". Truncating borrower\u2019s TIN on payee statements.  Pursuant to Regulations section 301.61094, all filers of  Form 1098E may truncate a borrower\u2019s TIN (social  security number (SSN), individual taxpayer identification  number (ITIN), adoption taxpayer identification number  (ATIN), or employer identification number (EIN)) on payee  statements. Truncation is not allowed on any documents  the filer files with the IRS. A recipient\u2019s/lender\u2019s TIN may  not be truncated on any form. See part J in the current  General Instructions for Certain Information Returns. Recipient\u2019s/lender\u2019s name, address, and telephone  number box. Enter the name, address, and telephone  number of the filer of Form 1098E. Use this same name  and address on Form 1096, Annual Summary and  Transmittal of U.S. Information Returns. Account number.  The account number is required if you  have multiple accounts for a recipient for whom you are  filing more than one Form 1098E",
+        "summary": "Filers of Form 1098E may truncate a borrower's TIN on payee statements but not on documents filed with the IRS. The recipient's/lender's TIN cannot be truncated, and the name, address, and telephone number of the filer must be included on the form. An account number is required if there are multiple accounts for a recipient.",
+        "timestamp": "2025-04-21T21:11:59.529813",
+        "token_count": 228
+    },
+    {
+        "chunk_id": 9,
+        "chunk_name": "Student loan interest reporting instructions.",
+        "filename": "Student_loan_interest_reporting_instructions._009.txt",
+        "original_chunk_text": ". Additionally, the IRS  encourages you to designate an account number for all  Forms 1098E that you file. See part L in the current  General Instructions for Certain Information Returns. Box 1. Student Loan Interest Received by  Lender Enter the interest you received on a student loan(s) during  the calendar year. For loans made on or after September  1, 2004, you are required to include in box 1 payments of  interest as described in Regulations section 1.2211(f).  Under that regulation, interest includes capitalized interest  and loan origination fees that represent charges for the  use or forbearance of money. See Regulations section  1.2211(f). Box 2. Checkbox Check this box if loan origination fees and/or capitalized  interest are not reported in box 1 for loans made before  September 1, 2004. Specific Instructions for Form 1098T File Form 1098T, Tuition Statement, if you are an eligible  educational institution",
+        "summary": "The IRS advises designating an account number for all Forms 1098E filed and requires reporting student loan interest received in Box 1, including capitalized interest and loan origination fees for loans made after September 1, 2004. For loans made before this date, check the box if these fees are not reported in Box 1. Eligible educational institutions must file Form 1098T, Tuition Statement.",
+        "timestamp": "2025-04-21T21:12:01.905978",
+        "token_count": 213
+    },
+    {
+        "chunk_id": 10,
+        "chunk_name": "Form 1098T filing requirements.",
+        "filename": "Form_1098T_filing_requirements._010.txt",
+        "original_chunk_text": ". You must file for each student you  enroll and for whom a reportable transaction is made.  Also, if you are an insurer, file Form 1098T for each  individual to whom you made reimbursements or refunds  of qualified tuition and related expenses. Exceptions.  You do not have to file Form 1098T or  furnish a statement for:  Courses for which no academic credit is offered, even if  the student is otherwise enrolled in a degree program;  Nonresident alien students, unless requested by the  student;  Students whose qualified tuition and related expenses  are entirely waived or paid entirely with scholarships; and  Students for whom you do not maintain a separate  financial account and whose qualified tuition and related  expenses are covered by a formal billing arrangement  between an institution and the student\u2019s employer or a  governmental entity, such as the Department of Veterans  Affairs or the Department of Defense. Who must file",
+        "summary": "You must file Form 1098T for each student enrolled and for whom a reportable transaction occurs, as well as for individuals receiving reimbursements or refunds of qualified tuition. Exceptions to filing include courses without academic credit, nonresident alien students (unless requested), students with waived expenses or fully covered by scholarships, and those whose expenses are managed through formal billing arrangements with employers or government entities.",
+        "timestamp": "2025-04-21T21:12:04.143361",
+        "token_count": 191
+    },
+    {
+        "chunk_id": 11,
+        "chunk_name": "Form 1098T filing requirements.",
+        "filename": "Form_1098T_filing_requirements._011.txt",
+        "original_chunk_text": ". Who must file. You must file Form 1098T if you are an  eligible educational institution. An eligible educational  institution that is a governmental unit, or an agency or  instrumentality of a governmental unit, is subject to the  reporting requirements of Form 1098T. A designated  officer or employee of the governmental entity must satisfy  the reporting requirements of Form 1098T. If another person receives or collects payments of  qualified tuition and related expenses on your behalf, the  other person must file Form 1098T. However, if the other  person does not possess the information necessary to  comply with the reporting requirements of Form 1098T,  then you must satisfy the reporting requirements of Form  1098T. Also, if you are an insurer engaged in a trade or  business of making refunds or reimbursements of  qualified tuition and related expenses, you are required to  file Form 1098T. See the instructions for box 10, later. Eligible educational institution",
+        "summary": "Eligible educational institutions must file Form 1098T to report qualified tuition and related expenses. This includes governmental units and their agencies, as well as any entity collecting payments on behalf of the institution. Insurers making refunds or reimbursements for these expenses are also required to file Form 1098T.",
+        "timestamp": "2025-04-21T21:12:06.188274",
+        "token_count": 209
+    },
+    {
+        "chunk_id": 12,
+        "chunk_name": "Eligible educational institutions and expenses.",
+        "filename": "Eligible_educational_institutions_and_expenses._012.txt",
+        "original_chunk_text": ". Eligible educational institution. An eligible educational  institution is a college, university, vocational school, or  other postsecondary educational institution that is  described in section 481 of the Higher Education Act of  1965 as in effect on August 5, 1997, and that is eligible to  2 Instructions for Forms 1098E and 1098T (2024) participate in the Department of Education\u2019s student aid  programs. This includes most accredited public, nonprofit,  and private postsecondary institutions. Qualified tuition and related expenses. Qualified  tuition and related expenses are tuition, fees, and course  materials required for a student to be enrolled at or attend  an eligible educational institution. The following are not qualified tuition and related  expenses.  Amounts paid for any course or other education  involving sports, games, or hobbies, unless the course or  other education is part of the student\u2019s degree program or  is taken to acquire or improve job skills",
+        "summary": "An eligible educational institution includes colleges, universities, and vocational schools that meet specific criteria under the Higher Education Act of 1965 and can participate in federal student aid programs. Qualified tuition and related expenses cover tuition, fees, and required course materials, but do not include costs for courses related to sports, games, or hobbies unless they are part of a degree program or aimed at improving job skills.",
+        "timestamp": "2025-04-21T21:12:08.797110",
+        "token_count": 200
+    },
+    {
+        "chunk_id": 13,
+        "chunk_name": "Educational expenses and credit definitions.",
+        "filename": "Educational_expenses_and_credit_definitions._013.txt",
+        "original_chunk_text": ".  Charges and fees for room, board, insurance, medical  expenses (including student health fees), transportation,  and similar personal, living, or family expenses. Academic credit. Academic credit is credit awarded by  an eligible educational institution for the completion of  course work leading to a postsecondary degree,  certificate, or other recognized postsecondary educational  credential. Example.  Sarah, a medical doctor, takes a course at  University X\u2019s medical school. Sarah takes the course to  fulfill Montana\u2019s licensing requirement that medical  doctors attend continuing medical education courses  each year. Sarah is not enrolled in a degree program at  University X and takes the medical course through  University X\u2019s continuing professional education program.  University X does not award Sarah credit toward a  postsecondary degree on an academic transcript for the  completion of the course but gives Sarah a certificate of  attendance upon completion",
+        "summary": "Charges for room, board, insurance, medical expenses, and personal living costs are outlined. Academic credit is awarded by eligible institutions for coursework leading to postsecondary credentials. In the example, Sarah takes a course for licensing requirements but does not receive academic credit toward a degree, only a certificate of attendance.",
+        "timestamp": "2025-04-21T21:12:10.963299",
+        "token_count": 180
+    },
+    {
+        "chunk_id": 14,
+        "chunk_name": "Form 1098T reporting requirements explained.",
+        "filename": "Form_1098T_reporting_requirements_explained._014.txt",
+        "original_chunk_text": ". University X is not required  to file Form 1098T for the course taken by Sarah. Academic period.  You must file Form 1098T for each  student who is enrolled in your institution for any academic  period (for example, semester, trimester, or quarter) in  2024, but see Exceptions, earlier. Determine your  enrollment for each period under your own rules or use  one of the following dates.  30 days after the first day of the academic period.  A date during the period when enrollment data must be  collected for purposes of the Integrated Post Secondary  Education Data System administered by the Department  of Education.  A date during the period when you must report  enrollment data to the state, to your governing board, or to  some other external governing body. Additional information.  For more information about  reporting on Form 1098T, see Regulations section  1.6050S1. Also see Notice 200672, 200636 I.R.B",
+        "summary": "University X is not obligated to file Form 1098T for Sarah's course. Institutions must file Form 1098T for each student enrolled during any academic period in 2024, with specific exceptions and enrollment determination rules. Additional reporting guidelines can be found in Regulations section 1.6050S1 and Notice 200672.",
+        "timestamp": "2025-04-21T21:12:13.014804",
+        "token_count": 210
+    },
+    {
+        "chunk_id": 15,
+        "chunk_name": "Form 1098-T electronic delivery guidelines.",
+        "filename": "Form_1098-T_electronic_delivery_guidelines._015.txt",
+        "original_chunk_text": ". Also see Notice 200672, 200636 I.R.B. 363,  available at IRS.gov/irb/200636_IRB#NOT200672, for  guidance in a questionandanswer format on the  information reporting requirements for Form 1098T. Statements to students. If you are required to file Form  1098T, you must furnish a statement or acceptable  substitute, on paper or electronically, to the student. Electronic delivery of Form 1098T.  Educational  institutions may present the option to consent to receive  Form 1098T electronically as part of a global \u201cConsent To  Do Business Electronically,\u201d combining consent for  electronic delivery of Form 1098T along with other  institutional student business functions such as  admissions, registration, billings, and direct deposits. The global consent process must meet all the consent,  disclosure, format, notice, and access period  requirements for electronic furnishing of Forms 1098T as  required by paragraphs (a)(2) through (6) of Regulations  section 1.6050S2",
+        "summary": "Educational institutions required to file Form 1098T must provide a statement to students, either on paper or electronically. They can offer an option for students to consent to receive Form 1098T electronically as part of a broader consent for electronic communications related to various institutional functions. This consent process must comply with specific regulations regarding electronic delivery requirements.",
+        "timestamp": "2025-04-21T21:12:15.306627",
+        "token_count": 228
+    },
+    {
+        "chunk_id": 16,
+        "chunk_name": "Truncation of student TIN guidelines.",
+        "filename": "Truncation_of_student_TIN_guidelines._016.txt",
+        "original_chunk_text": ". For more information about the  requirements to furnish a statement to each student, see  part M in the current General Instructions for Certain  Information Returns. Truncating student\u2019s TIN on payee statements.  Pursuant to Regulations section 301.61094, all filers of  Form 1098T may truncate a student\u2019s TIN (social security  number (SSN), individual taxpayer identification number  (ITIN), adoption taxpayer identification number (ATIN), or  employer identification number (EIN)) on payee  statements. Truncation is not allowed on any documents  the filer files with the IRS. A filer\u2019s TIN may not be  truncated on any form. See part J in the current General  Instructions for Certain Information Returns. Student\u2019s TIN and checkbox.  Enter the student\u2019s TIN,  as provided to you on Form W9S, Request for Student\u2019s  or Borrower\u2019s Taxpayer Identification Number and  Certification, or other form",
+        "summary": "Filers of Form 1098-T may truncate a student's TIN on payee statements, but not on documents filed with the IRS. A student's TIN must be entered as provided on Form W9S or other relevant forms. For more details, refer to part M and part J of the General Instructions for Certain Information Returns.",
+        "timestamp": "2025-04-21T21:12:17.679544",
+        "token_count": 206
+    },
+    {
+        "chunk_id": 17,
+        "chunk_name": "Reporting student TIN for taxes.",
+        "filename": "Reporting_student_TIN_for_taxes._017.txt",
+        "original_chunk_text": ". If you solicited the student\u2019s  TIN in writing (Form W9S or other form) for the current  year, check the box. Also check the box if you obtained  the student\u2019s TIN in a prior year by making a solicitation in  writing (Form W9S or other form) or you obtained the  student\u2019s TIN in a prior year from his or her financial aid  application or other form and in either case have no  reason to believe the TIN previously obtained is incorrect.  Check the box if the institution is filing the Form 1098T  with nothing in the field for the student\u2019s TIN because the  institution has no record of a TIN, but only if you made a  written solicitation for the TIN on or before December 31  of the year for which you are filing the Form 1098T",
+        "summary": "Check the box if you obtained the student's TIN in writing for the current or a prior year, or if you have no record of a TIN but solicited it in writing by December 31 of the filing year. This applies to Form W9S or other forms.",
+        "timestamp": "2025-04-21T21:12:19.758389",
+        "token_count": 182
+    },
+    {
+        "chunk_id": 18,
+        "chunk_name": "Tax form filing compliance certification.",
+        "filename": "Tax_form_filing_compliance_certification._018.txt",
+        "original_chunk_text": ". By  checking the box and filing Form 1098T with the IRS (for  electronic filers), you certify under penalties of perjury that  you have in good faith complied with the standards in  Regulations section 1.6050S1 governing the time and  manner of soliciting the TIN of the student. Filers who  transmit paper forms to the IRS will make such  certification by signing Form 1096 in conjunction with filing  the returns with the boxes checked in the fields  designated for the student\u2019s identification number. Student\u2019s address. In the student\u2019s address box of Form  1098T, enter the student\u2019s permanent address. That is,  enter the student\u2019s home or other longterm address  where he or she can receive forwarded mail. You may use  a temporary address only if you do not know the  permanent address. Information contact and service provider.  You must  provide your name, address, and telephone number",
+        "summary": "By checking the box and filing Form 1098T, you certify compliance with IRS regulations regarding the solicitation of the student's TIN. For paper filers, certification is done by signing Form 1096. The student's permanent address must be entered on Form 1098T, and contact information for the filer must also be provided.",
+        "timestamp": "2025-04-21T21:12:21.974661",
+        "token_count": 198
+    },
+    {
+        "chunk_id": 19,
+        "chunk_name": "Form 1098E and 1098T guidelines.",
+        "filename": "Form_1098E_and_1098T_guidelines._019.txt",
+        "original_chunk_text": ". In  addition, you may include information on a thirdparty  service provider who filed the form or who may answer  questions about the statement. Enter the service  provider\u2019s information in the box below the student\u2019s name  and address. Instructions for Forms 1098E and 1098T (2024) 3 You must provide the telephone number for the  information contact at the institution. Generally,  this is an administrative office or department. Do  not provide the institution\u2019s general telephone number. Account number.  The account number is required if you  have multiple accounts for a recipient for whom you are  filing more than one Form 1098T. Additionally, the IRS  encourages you to designate an account number for all  Forms 1098T that you file. See part L in the current  General Instructions for Certain Information Returns. Box 1",
+        "summary": "When filing Forms 1098E and 1098T, include the contact information for a third-party service provider if applicable. Provide a specific telephone number for the institution's administrative office, not the general number. An account number is required if multiple accounts exist for the recipient, and the IRS recommends designating an account number for all filed Forms 1098T.",
+        "timestamp": "2025-04-21T21:12:24.332725",
+        "token_count": 178
+    },
+    {
+        "chunk_id": 20,
+        "chunk_name": "Tuition payments reporting guidelines.",
+        "filename": "Tuition_payments_reporting_guidelines._020.txt",
+        "original_chunk_text": ". Box 1. Payments Received for Qualified Tuition  and Related Expenses Enter the total amount of payments received for qualified  tuition and related expenses from all sources during the  calendar year. The amount reported is the total amount of  payments received less any reimbursements or refunds  made during the calendar year that relate to the payments  received for qualified tuition and related expenses during  the same calendar year. The amount reported is not  reduced by scholarships and grants reported in box 5.  Include in this box the receipt of a payment of pastdue  qualified tuition or related expenses from a previous  calendar year, but only if the educational institution  previously billed the student for such amount(s). Box 2. Reserved This box is reserved for future use. Box 3. Reserved This box is reserved for future use. Box 4. Adjustments Made for a Prior Year Payments received",
+        "summary": "Box 1 requires reporting the total payments received for qualified tuition and related expenses during the calendar year, minus any reimbursements or refunds, but not reduced by scholarships or grants. Payments for past-due tuition from previous years can be included if previously billed. Boxes 2 and 3 are reserved for future use, while Box 4 pertains to adjustments for prior year payments.",
+        "timestamp": "2025-04-21T21:12:27.266447",
+        "token_count": 179
+    },
+    {
+        "chunk_id": 21,
+        "chunk_name": "Tuition and financial aid reporting.",
+        "filename": "Tuition_and_financial_aid_reporting._021.txt",
+        "original_chunk_text": ". Enter reimbursements or refunds of  qualified tuition and related expenses made in 2024 that  relate to payments received that were reported for any  prior year after 2002. Amounts billed. Enter any reductions in charges made  for qualified tuition and related expenses made during the  calendar year that relate to amounts billed that were  reported for any prior year after 2002. These requirements also apply to an adjustment made  in connection with a nonresident alien for which the  educational institution filed and furnished a Form 1098T  for the prior year. Box 5. Scholarships or Grants Enter the total amount of any scholarships or grants that  you administered and processed during the calendar year  for the payment of the student\u2019s costs of attendance.  Scholarships and grants generally include all payments  CAUTION ! received from third parties (excluding family members and  loan proceeds)",
+        "summary": "Enter reimbursements or refunds for qualified tuition and related expenses made in 2024 that pertain to payments reported for prior years after 2002. Also, report any reductions in charges for qualified tuition during the calendar year related to prior amounts billed. Additionally, include the total amount of scholarships or grants administered during the year for the student's attendance costs, excluding family payments and loan proceeds.",
+        "timestamp": "2025-04-21T21:12:33.943986",
+        "token_count": 180
+    },
+    {
+        "chunk_id": 22,
+        "chunk_name": "Scholarships and grants administration.",
+        "filename": "Scholarships_and_grants_administration._022.txt",
+        "original_chunk_text": ". This includes payments received from  governmental and private entities such as the Department  of Veterans Affairs, the Department of Defense, civic and  religious organizations, and nonprofit entities. However,  see Exceptions, earlier. A scholarship or grant is administered and processed  by you if you receive payment of an amount, whether by  check, cash, electronic transfer, or other means, and such  payment is designated as a grant or a scholarship by the  payor, or the circumstances make it clear that the payment  is a grant or scholarship. A Pell Grant is an example of a  grant administered and processed by a college or  university in all cases. Box 6. Adjustments to Scholarships or Grants  for a Prior Year Enter the amount of any reduction to the amount of  scholarships or grants that were reported for any prior  year after 2002. Box 7",
+        "summary": "Payments received from governmental and private entities, such as the Department of Veterans Affairs and nonprofit organizations, can be classified as scholarships or grants. A payment is considered a scholarship or grant if it is designated as such by the payor or the circumstances indicate it. Adjustments to previously reported scholarships or grants must be entered in Box 6.",
+        "timestamp": "2025-04-21T21:12:35.920312",
+        "token_count": 179
+    },
+    {
+        "chunk_id": 23,
+        "chunk_name": "Academic eligibility and payment criteria.",
+        "filename": "Academic_eligibility_and_payment_criteria._023.txt",
+        "original_chunk_text": ". Box 7. Checkbox for Amounts for an Academic  Period Beginning in January Through March of  2025 Check this box if any payments received for qualified  tuition and related expenses reported for 2024 relate to an  academic period that begins in January through March of  2025. Box 8. Check if at Least HalfTime Student Check this box if the student was at least a halftime  student during any academic period that began in 2024. A  halftime student is a student enrolled for at least half the  fulltime academic workload for the course of study the  student is pursuing. Your institution\u2019s standard for a  halftime student work load must equal or exceed the  standards established by the Department of Education  under the Higher Education Act and set forth in 34 C.F.R.  section 668.2(b). Box 9. Check if a Graduate Student Check this box if the student was a graduate student",
+        "summary": "Box 7 indicates to check if any payments for qualified tuition and related expenses reported for 2024 are for an academic period starting between January and March 2025. Box 8 is for marking if the student was at least a halftime student in 2024, meeting the Department of Education's standards. Box 9 is to be checked if the student was a graduate student.",
+        "timestamp": "2025-04-21T21:12:38.182198",
+        "token_count": 192
+    },
+    {
+        "chunk_id": 24,
+        "chunk_name": "Graduate student financial reporting instructions.",
+        "filename": "Graduate_student_financial_reporting_instructions._024.txt",
+        "original_chunk_text": ". The  student is a graduate student if the student was enrolled in  a program or programs leading to a graduatelevel  degree, graduatelevel certificate, or other recognized  graduatelevel educational credential. Box 10. Insurance Contract Reimbursements or  Refunds If you are an insurer, enter the total amount of  reimbursements or refunds of qualified tuition and related  expenses that you made to the student during 2024. 4 Instructions for Forms 1098E and 1098T (2024)",
+        "summary": "A graduate student is defined as someone enrolled in a program leading to a graduate-level degree or credential. Insurers must report the total amount of reimbursements or refunds for qualified tuition and related expenses made to the student during 2024 in Box 10.",
+        "timestamp": "2025-04-21T21:12:40.574089",
+        "token_count": 106
+    }
+]

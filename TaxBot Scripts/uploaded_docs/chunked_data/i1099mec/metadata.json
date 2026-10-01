@@ -1,0 +1,443 @@
+[
+    {
+        "chunk_id": 1,
+        "chunk_name": "Tax reporting for deceased employee payments.",
+        "filename": "Tax_reporting_for_deceased_employee_payments._001.txt",
+        "original_chunk_text": "Box 5\u201413000.00 (includes the $3,000 accrued wages and vacation pay).  Box 6\u2014188.50 (Medicare tax withheld). Bailey\u2019s employer must also complete Form 1099MISC as follows.  Boxes for recipient's name, address, and TIN\u2014The estate\u2019s or beneficiary's name, address, and TIN.  Box 3\u20143000.00 (Even though amounts were withheld for social security and Medicare taxes, the gross amount is reported here.) If Bailey\u2019s employer made the payment after the year of death, the $3,000 would not be subject to social security and Medicare taxes and would not be shown on Form W2. However, Bailey\u2019employer would still file Form 1099MISC. Payments made on behalf of another person. For payments reportable under section 6041, if you make a payment on behalf of another person who is the source of the funds, you may be responsible for filing Form 1099MISC. You are the payor for information reporting purposes if you perform management or oversight functions in connection with the payment, or have a significant economic interest in the payment (such as a lien)",
+        "summary": "Bailey's employer must report $13,000 in Box 5 and $188.50 in Box 6 on Form W-2, including accrued wages and vacation pay. Additionally, Form 1099-MISC must be completed for the estate or beneficiary, reporting $3,000 in Box 3, which is not subject to social security and Medicare taxes if paid after the year of death. Payments made on behalf of another person may also require filing Form 1099-MISC if the",
+        "timestamp": "2025-04-21T21:12:47.435566",
+        "token_count": 245
+    },
+    {
+        "chunk_id": 2,
+        "chunk_name": "Tax reporting for various payments.",
+        "filename": "Tax_reporting_for_various_payments._002.txt",
+        "original_chunk_text": ". For example, a bank that provides financing to a real estate developer for a construction project maintains an account from which it makes payments for services in connection with the project. The bank performs management and oversight functions over the payments and is responsible for filing information returns for payments of $600 or more paid to contractors. For more information, see Regulations section 1.60411(e). Indian gaming profits, payments to tribal members. If you make payments to members of Indian tribes from the net revenues of class II or class III gaming activities conducted or licensed by the tribes, you must withhold federal income tax on such payments. File Form 1099MISC to report the payments and withholding to tribal members. Report the payments in box 3 and the federal income tax withheld in box 4. Pub. 15A contains the necessary Tables for Withholding on Distributions of Indian Gaming Profits to Tribal Members. State or local sales taxes. If state or local sales taxes are imposed on the service provider and you (as the buyer) pay them to the service provider, report them on Form 1099MISC as part of the reportable payment",
+        "summary": "A bank financing a real estate project must manage payments and file information returns for contractor payments of $600 or more. Payments to Indian tribe members from gaming profits require federal income tax withholding and must be reported on Form 1099MISC. Additionally, state or local sales taxes paid to service providers should also be reported on Form 1099MISC as part of the payments.",
+        "timestamp": "2025-04-21T21:12:49.642647",
+        "token_count": 230
+    },
+    {
+        "chunk_id": 3,
+        "chunk_name": "Sales tax reporting exemptions.",
+        "filename": "Sales_tax_reporting_exemptions._003.txt",
+        "original_chunk_text": ". However, if sales taxes are imposed on you (as the buyer) and collected from you by the service provider, do not report the sales taxes on Form 1099MISC. Exceptions Some payments do not have to be reported on Form 1099MISC, although they may be taxable to the recipient. Payments for which a Form 1099MISC is not required include all of the following.  Generally, payments to a corporation (including a limited liability company (LLC) that is treated as a C or S corporation). However, see Reportable payments to corporations, earlier.  Payments for merchandise, telegrams, telephone, freight, storage, and similar items.  Payments of rent to real estate agents or property managers. However, the real estate agent or property manager must use Form 1099MISC to report the rent paid over to the property owner. See Regulations section 1.60413(d); Regulations section 1.60411(e)(5), Example 5; and the instructions for box 1.  Wages paid to employees (report on Form W2).  Military differential wage payments made to employees while they are on active duty in the U.S. Armed Forces or other uniformed services (report on Form W2)",
+        "summary": "Sales taxes collected from buyers by service providers should not be reported on Form 1099MISC. Payments that do not require reporting on this form include those made to corporations, payments for merchandise and similar items, rent paid to real estate agents, and wages to employees, which should be reported on Form W2.",
+        "timestamp": "2025-04-21T21:12:52.565984",
+        "token_count": 258
+    },
+    {
+        "chunk_id": 4,
+        "chunk_name": "Tax reporting for various payments.",
+        "filename": "Tax_reporting_for_various_payments._004.txt",
+        "original_chunk_text": ".  Business travel allowances paid to employees (may be reportable on Form W2).  Cost of current life insurance protection (report on Form W2 or Form 1099R).  Payments to a taxexempt organization including taxexempt trusts (IRAs, HSAs, Archer MSAs, Coverdell ESAs, and ABLE (529A) accounts), the United States, a state, the District of Columbia, a U.S. territory, or a foreign government.  Payments made to or for homeowners from the HFA Hardest Hit Fund or similar state program (report on Form 1098MA).  Compensation for injuries or sickness by the Department of Justice as a public safety officer (PSO) disability or survivor's benefit, or under a state program that provides benefits for surviving dependents of a PSO who has died as the direct and proximate result of a personal injury sustained in the line of duty.  Compensation for wrongful incarceration for any criminal offense for which there was a conviction under federal or state law. See section 139F, Certain amounts received by wrongfully incarcerated individuals. Form 1099K",
+        "summary": "Business travel allowances and current life insurance protection costs may be reportable on Form W2. Payments to tax-exempt organizations and certain state programs, as well as compensation for injuries or wrongful incarceration, have specific reporting requirements, including Forms 1098MA and 1099K.",
+        "timestamp": "2025-04-21T21:12:54.480745",
+        "token_count": 232
+    },
+    {
+        "chunk_id": 5,
+        "chunk_name": "Reporting payment types and exceptions.",
+        "filename": "Reporting_payment_types_and_exceptions._005.txt",
+        "original_chunk_text": ". Form 1099K. Payments made with a credit card or payment card and certain other types of payments, including thirdparty network transactions, must be reported on Form 1099K by the payment settlement entity under section 6050W and are not subject to reporting on Form 1099MISC. See the separate Instructions for Form 1099K. Fees paid to informers. A payment to an informer as an award, fee, or reward for information about criminal activity does not have to be reported if the payment is made by a federal, state, or local government agency, or by a nonprofit organization exempt from tax under section 501(c)(3) that makes the payment to further the charitable purpose of lessening the burdens of government. For more information, see Regulations section 1.60413(l). Scholarships. Do not use Form 1099MISC to report scholarship or fellowship grants. Scholarship or fellowship grants that are taxable to the recipient because they are paid for teaching, research, or other services as a condition for receiving the grant are considered wages and must be reported on Form W2",
+        "summary": "Payments made via credit or payment cards and certain third-party transactions must be reported on Form 1099K, not Form 1099MISC. Payments to informers by government agencies or qualified nonprofits do not require reporting. Scholarships or fellowships that are taxable due to conditions like teaching or research must be reported on Form W2.",
+        "timestamp": "2025-04-21T21:12:57.082885",
+        "token_count": 227
+    },
+    {
+        "chunk_id": 6,
+        "chunk_name": "Tax reporting guidelines and exceptions.",
+        "filename": "Tax_reporting_guidelines_and_exceptions._006.txt",
+        "original_chunk_text": ". Other taxable scholarship or fellowship payments (to a degree or nondegree candidate) do not have to be reported to the IRS on any form, unless section 6050S requires reporting of such amounts by an educational institution on Form 1098T. See section 117(b)\u2013 (d) and Regulations section 1.60413(n) for more information. Canceled debt. A canceled debt is not reportable on Form 1099MISC. Canceled debts reportable under section 6050P must be reported on Form 1099C. See the Instructions for Forms 1099A and 1099C. Employee business expense reimbursements. Do not use Form 1099MISC to report employee business expense reimbursements. Report payments made to employees under a nonaccountable plan as wages on Form W2. Generally, payments made to employees under an accountable plan are not reportable on Form W2, except in certain cases when you pay a per diem or mileage allowance. For more information, see the General Instructions for Forms W2 and W3, and Pub. 463. For information on reporting employee Instr. for Forms 1099MISC and 1099NEC (Rev. 012024) 3 moving expense reimbursements on Form W2, see the General Instructions for Forms W2 and W3",
+        "summary": "Taxable scholarship or fellowship payments do not need to be reported to the IRS unless required by section 6050S on Form 1098T. Canceled debts must be reported on Form 1099C, not Form 1099MISC. Employee business expense reimbursements should be reported as wages on Form W2 for nonaccountable plans, while accountable plans have specific reporting exceptions.",
+        "timestamp": "2025-04-21T21:12:59.612797",
+        "token_count": 277
+    },
+    {
+        "chunk_id": 7,
+        "chunk_name": "WHFITs income reporting requirements.",
+        "filename": "WHFITs_income_reporting_requirements._007.txt",
+        "original_chunk_text": ". Widely held fixed investment trusts (WHFITs). Trustees and middlemen of WHFITs must report items of gross income attributable to a trust income holder (TIH) on the appropriate Form 1099. A tax information statement that includes the information provided to the IRS on Forms 1099, as well as additional information identified in Regulations section 1.6715(e), must be furnished to TIHs. For details, see the current year General Instructions for Certain Information Returns. Statements to Recipients If you are required to file Form 1099MISC, you must furnish a statement to the recipient. For more information about the requirement to furnish a statement to each recipient, and truncation, see part M in the current year General Instructions for Certain Information Returns. You can furnish each recipient with a single payee statement reporting all Form 1099MISC payment types. You are required to furnish the payee statements by January 31 and file with the IRS by February 28 (March 31, if filing electronically). Truncating recipient\u2019s TIN on payee statements",
+        "summary": "Trustees and middlemen of widely held fixed investment trusts (WHFITs) must report gross income to trust income holders (TIHs) using Form 1099 and provide a tax information statement. If required to file Form 1099-MISC, a statement must be furnished to each recipient by January 31, with IRS filing due by February 28 (or March 31 if filing electronically). Recipients can receive a single payee statement for all payment types, and truncation of the",
+        "timestamp": "2025-04-21T21:13:04.131942",
+        "token_count": 222
+    },
+    {
+        "chunk_id": 8,
+        "chunk_name": "Truncating TIN on payee statements.",
+        "filename": "Truncating_TIN_on_payee_statements._008.txt",
+        "original_chunk_text": ". Truncating recipient\u2019s TIN on payee statements. Pursuant to Regulations section 301.61094, all filers of this form may truncate a recipient\u2019s TIN (social security number (SSN), individual taxpayer identification number (ITIN), adoption taxpayer identification number (ATIN), or employer identification number (EIN)) on payee statements. Truncation is not allowed on any documents the filer files with the IRS. A payer's TIN may not be truncated on any form. See part J in the current year General Instructions for Certain Information Returns. 2nd TIN Not. You may enter an \u201cX\u201d in this box if you were notified by the IRS twice within 3 calendar years that the payee provided an incorrect TIN. If you mark this box, the IRS will not send you any further notices about this account. However, if you received both IRS notices in the same year, or if you received them in different years but they both related to information returns filed for the same year, do not check the box at this time",
+        "summary": "Filers may truncate a recipient's TIN on payee statements, but not on documents filed with the IRS. Additionally, if notified by the IRS twice within three years about an incorrect TIN, filers can mark an \"X\" to stop further notices, unless both notifications were for the same year.",
+        "timestamp": "2025-04-21T21:13:06.568572",
+        "token_count": 219
+    },
+    {
+        "chunk_id": 9,
+        "chunk_name": "Handling Form 1099MISC corrections.",
+        "filename": "Handling_Form_1099MISC_corrections._009.txt",
+        "original_chunk_text": ". For purposes of the twonoticesin3years rule, you are considered to have received one notice and you are not required to send a second \u201cB\u201d notice to the taxpayer on receipt of the second notice. See part N in the current year General Instructions for Certain Information Returns for more information. For information on the TIN Matching System offered by the IRS, see the current year General Instructions for Certain Information Returns. Corrections to Form 1099MISC If you need to correct a Form 1099MISC that you have already sent to the IRS:  For paper forms, see part H in the current year General Instructions for Certain Information Returns; or  For electronic corrections, see Pub. 1220. If you are filing a correction on a paper form, do not check the VOID box on the form. A checked VOID box alerts IRS scanning equipment to ignore the form and proceed to the next one. Your correction will not be entered into IRS records if you check the VOID box. TIP CAUTION ! Recipient's TIN Enter the recipient's TIN using hyphens in the proper format. SSNs, ITINs, and ATINs should be in the XXXXXXXXX format. EINs should be in the XXXXXXXXX format",
+        "summary": "For the two notices in three years rule, only one notice is required, and a second \"B\" notice is not necessary upon receiving a second notice. To correct a Form 1099MISC, follow specific instructions for paper or electronic corrections without checking the VOID box, as this will prevent the correction from being recorded by the IRS. Ensure the recipient's TIN is formatted correctly with hyphens.",
+        "timestamp": "2025-04-21T21:13:09.180278",
+        "token_count": 259
+    },
+    {
+        "chunk_id": 10,
+        "chunk_name": "Proper reporting of EINs and rentals.",
+        "filename": "Proper_reporting_of_EINs_and_rentals._010.txt",
+        "original_chunk_text": ". EINs should be in the XXXXXXXXX format. You should make every effort to ensure that you have the correct type of number reported in the correct format. Account Number The account number is required if you have multiple accounts for a recipient for whom you are filing more than one Form 1099MISC. The account number is also required if you check the \u201cFATCA filing requirement\u201d box. See Box 13, later. Additionally, the IRS encourages you to designate an account number for all Forms 1099MISC that you file. See part L in the current year General Instructions for Certain Information Returns. Box 1. Rents Enter amounts of $600 or more for all types of rents, such as any of the following.  Real estate rentals paid for office space. However, you do not have to report these payments on Form 1099MISC if you paid them to a real estate agent or property manager. But the real estate agent or property manager must use Form 1099MISC to report the rent paid over to the property owner. See Regulations section 1.60413(d) and Regulations section 1.60411(e)(5), Example 5.  Machine rentals (for example, renting a bulldozer to level your parking lot)",
+        "summary": "EINs must be reported in the specified format, and an account number is required for recipients with multiple accounts or when checking the \u201cFATCA filing requirement\u201d box. For Box 1 of Form 1099MISC, report rents of $600 or more, except when paid to a real estate agent or property manager, who must report the rent to the property owner.",
+        "timestamp": "2025-04-21T21:13:14.527795",
+        "token_count": 263
+    },
+    {
+        "chunk_id": 11,
+        "chunk_name": "Rental payment reporting regulations.",
+        "filename": "Rental_payment_reporting_regulations._011.txt",
+        "original_chunk_text": ". If the machine rental is part of a contract that includes both the use of the machine and the operator, prorate the rental between the rent of the machine (report that in box 1) and the operator's charge (report that on Form 1099NEC in box 1).  Pasture rentals (for example, farmers paying for the use of grazing land). Public housing agencies must report in box 1 rental assistance payments made to owners of housing projects. See Rev. Rul. 8853, 19881 C.B. 384. Coinoperated amusements. If an arrangement between an owner of coinoperated amusements and an owner of a business establishment where the amusements are placed is a lease of the amusements or the amusement space, the owner of the amusements or the owner of the space, whoever makes the payments, must report the lease payments in box 1 of Form 1099MISC if the payments total at least $600. However, if the arrangement is a joint venture, the joint venture must file a Form 1065, U.S. Return of Partnership Income, and provide each partner with the information necessary to report the partner's share of the taxable income",
+        "summary": "If machine rental includes both the machine and operator, prorate the rental between the machine (report in box 1) and the operator's charge (report on Form 1099NEC in box 1). Public housing agencies must report rental assistance payments to housing project owners in box 1. For coin-operated amusements, lease payments of $600 or more must be reported in box 1 of Form 1099MISC, unless it's a joint venture, in which case Form 106",
+        "timestamp": "2025-04-21T21:13:18.666720",
+        "token_count": 253
+    },
+    {
+        "chunk_id": 12,
+        "chunk_name": "Coin-operated amusement revenue reporting.",
+        "filename": "Coin-operated_amusement_revenue_reporting._012.txt",
+        "original_chunk_text": ". Coinoperated amusements include video games, pinball machines, jukeboxes, pool tables, slot machines, and other machines and gaming devices operated by coins or tokens inserted into the machines by individual users. For more information, see Rev. Rul. 9249, 19921 C.B. 433. Box 2. Royalties Enter gross royalty payments (or similar amounts) of $10 or more. Report royalties from oil, gas, or other mineral properties before reduction for severance and other taxes that may have been withheld and paid. Do not include surface royalties. They should be reported in box 1. Do not report oil or gas payments for a working interest in box 2; CAUTION ! 4 Instr. for Forms 1099MISC and 1099NEC (Rev. 012024) report payments for working interests in box 1 of Form 1099NEC. Do not report timber royalties made under a payascut contract; report these timber royalties on Form 1099S. Use box 2 to report royalty payments from intangible property such as patents, copyrights, trade names, and trademarks. Report the gross royalties (before reduction for fees, commissions, or expenses) paid by a publisher directly to an author or literary agent, unless the agent is a corporation",
+        "summary": "Coin-operated amusements include various gaming devices like video games and slot machines that require coins or tokens. Royalties of $10 or more should be reported in box 2, excluding surface royalties and oil or gas payments for working interests, which go in box 1. Box 2 is for royalties from intangible property, while timber royalties under pay-as-cut contracts should be reported on Form 1099S.",
+        "timestamp": "2025-04-21T21:13:21.317841",
+        "token_count": 272
+    },
+    {
+        "chunk_id": 13,
+        "chunk_name": "Royalty payment reporting requirements.",
+        "filename": "Royalty_payment_reporting_requirements._013.txt",
+        "original_chunk_text": ". The literary agent (whether or not a corporation) that receives the royalty payment on behalf of the author must report the gross amount of royalty payments to the author on Form 1099MISC whether or not the publisher reported the payment to the agent on its Form 1099MISC. Box 3. Other Income Enter other income of $600 or more required to be reported on Form 1099MISC that is not reportable in one of the other boxes on the form. Also enter in box 3 prizes and awards that are not for services performed. Include the fair market value (FMV) of merchandise won on game shows. Also include amounts paid to a winner of a sweepstakes not involving a wager. If a wager is made, report the winnings on Form W2G. If, not later than 60 days after the winner becomes entitled to the prize, the winner can choose the option of a lump sum or an annuity payable over at least 10 years, the payment of winnings is considered made when actually paid. If the winner chooses an annuity, file Form 1099MISC each year to report the annuity paid during that year. Do not include wages, any bonuses, prizes, and awards paid to your employees. Report these on Form W2",
+        "summary": "Literary agents must report gross royalty payments received on behalf of authors on Form 1099MISC, regardless of whether the publisher reported the payment. Other income of $600 or more, including prizes and awards not for services, should also be reported on Form 1099MISC, while wages and employee bonuses are reported on Form W2. If a prize winner opts for an annuity, the agent must file Form 1099MISC annually for payments made.",
+        "timestamp": "2025-04-21T21:13:24.508920",
+        "token_count": 262
+    },
+    {
+        "chunk_id": 14,
+        "chunk_name": "Reportable prizes and awards guidelines.",
+        "filename": "Reportable_prizes_and_awards_guidelines._014.txt",
+        "original_chunk_text": ". Report these on Form W2. Do not include in box 3 prizes and awards for services performed by nonemployees, such as an award for the top commission salesperson. Report them in box 1 of Form 1099NEC. Prizes and awards received in recognition of past accomplishments in religious, charitable, scientific, artistic, educational, literary, or civic fields are not reportable if:  The winners are chosen without action on their part,  The winners are not expected to perform future services, and  The payer transfers the prize or award to a charitable organization or governmental unit under a designation made by the recipient. See Rev. Proc. 8754, 19872 C.B. 669. Other items required to be reported in box 3 include the following. 1. Payments as explained earlier under Deceased employee's wages. 2. Payments as explained earlier under Indian gaming profits, payments to tribal members. 3. A payment or series of payments made to individuals for participating in a medical research study or studies. 4. Termination payments to former selfemployed insurance salespeople",
+        "summary": "Prizes and awards for services performed by nonemployees should be reported in box 1 of Form 1099NEC, while certain awards for past accomplishments are not reportable if specific conditions are met. Other items to report in box 3 include deceased employee wages, Indian gaming profits, payments for medical research participation, and termination payments to former self-employed insurance salespeople.",
+        "timestamp": "2025-04-21T21:13:27.060935",
+        "token_count": 226
+    },
+    {
+        "chunk_id": 15,
+        "chunk_name": "Insurance payments and reporting criteria.",
+        "filename": "Insurance_payments_and_reporting_criteria._015.txt",
+        "original_chunk_text": ". These payments are not subject to selfemployment tax and are reportable in box 3 (rather than box 1 of Form 1099NEC) if all the following apply. a. The payments are received from an insurance company because of services performed as an insurance salesperson for the company. TIP b. The payments are received after termination of the salesperson's agreement to perform services for the company. c. The salesperson did not perform any services for the company after termination and before the end of the year. d. The salesperson enters into a covenant not to compete against the company for at least 1 year after the date of termination. e. The amount of the payments depends primarily on policies sold by the salesperson or credited to the salesperson's account during the last year of the service agreement or to the extent those policies remain in force for some period after termination, or both. f. The amount of the payments does not depend at all on length of service or overall earnings from the company (regardless of whether eligibility for payment depends on length of service)",
+        "summary": "Payments from an insurance company to a former insurance salesperson are reportable in box 3 of Form 1099NEC and not subject to self-employment tax if certain conditions are met. These include receiving payments after termination of the agreement, not performing services post-termination, entering a non-compete covenant, and having payment amounts based on policies sold rather than on service length or overall earnings.",
+        "timestamp": "2025-04-21T21:13:29.596770",
+        "token_count": 220
+    },
+    {
+        "chunk_id": 16,
+        "chunk_name": "Tax reporting for damages guidelines.",
+        "filename": "Tax_reporting_for_damages_guidelines._016.txt",
+        "original_chunk_text": ". If the termination payments do not meet all these requirements, report them in box 1 of Form 1099NEC. 5. Generally, all punitive damages, any damages for nonphysical injuries or sickness, and any other taxable damages. Report punitive damages even if they relate to physical injury or physical sickness. Generally, report all compensatory damages for nonphysical injuries or sickness, such as employment discrimination or defamation. However, do not report damages (other than punitive damages): a. Received on account of personal physical injuries or physical sickness; b. That do not exceed the amount paid for medical care for emotional distress; c. Received on account of nonphysical injuries (for example, emotional distress) under a written binding agreement, court decree, or mediation award in effect on or issued by September 13, 1995; or d. That are for a replacement of capital, such as damages paid to a buyer by a contractor who failed to complete construction of a building",
+        "summary": "Termination payments that do not meet specific requirements should be reported in box 1 of Form 1099-NEC. All punitive damages and compensatory damages for nonphysical injuries or sickness must be reported, except for certain exclusions related to physical injuries, medical care for emotional distress, and damages under specific agreements or for capital replacement.",
+        "timestamp": "2025-04-21T21:13:32.314536",
+        "token_count": 197
+    },
+    {
+        "chunk_id": 17,
+        "chunk_name": "Emotional distress damages reporting rules.",
+        "filename": "Emotional_distress_damages_reporting_rules._017.txt",
+        "original_chunk_text": ". Damages received on account of emotional distress, including physical symptoms such as insomnia, headaches, and stomach disorders, are not considered received for a physical injury or physical sickness and are reportable unless described in item 5b or 5c above. However, damages received on account of emotional distress due to physical injuries or physical sickness are not reportable. Also report liquidated damages received under the Age Discrimination in Employment Act of 1967. Taxable back pay damages may be wages and reportable on Form W2. See Pub. 957. Foreign agricultural workers. Report in box 3 compensation of $600 or more paid in a calendar year to an H2A visa agricultural worker who did not give you a valid TIN. You must also withhold federal income tax under the backup withholding rules. For more information, go to IRS.gov and enter \u201cforeign agricultural workers\u201d in the search box. Account reported under FATCA. If you are an foreign financial institution (FFI) reporting pursuant to an election described in Regulations section 1.14714(d)(5)(i)(A) a U.S",
+        "summary": "Damages for emotional distress are reportable unless related to physical injuries or sickness, which are not reportable. Liquidated damages under the Age Discrimination in Employment Act must be reported, and taxable back pay damages are reportable on Form W2. Compensation of $600 or more paid to H2A visa agricultural workers without a valid TIN must also be reported, with federal income tax withheld.",
+        "timestamp": "2025-04-21T21:13:34.746438",
+        "token_count": 226
+    },
+    {
+        "chunk_id": 18,
+        "chunk_name": "Form 1099 reporting requirements explained.",
+        "filename": "Form_1099_reporting_requirements_explained._018.txt",
+        "original_chunk_text": ". account required to be reported under chapter 4 to which during the year you made no payments reportable on an TIP Instr. for Forms 1099MISC and 1099NEC (Rev. 012024) 5 applicable Form 1099, enter zero in box 3. In addition, if you are an FFI described in the preceding sentence and, during the year, you made payments to the account required to be reported under chapter 4, but those payments are not reportable on an applicable Form 1099 (for example, because the payment is under the applicable reporting threshold), you must report the account on this Form 1099MISC and enter zero in box 3. Box 4. Federal Income Tax Withheld Enter backup withholding. For example, persons who have not furnished their TINs to you are subject to withholding on payments required to be reported in boxes 1, 2 (net of severance taxes), 3, 5 (only with respect to cash payments to crew members for their share of proceeds from the catch), 6, 8, 9, and 10. For more information on backup withholding, including the rate, see part N in the current year General Instructions for Certain Information Returns",
+        "summary": "If no payments were made to an account required to be reported under chapter 4, enter zero in box 3 of Form 1099MISC. If payments were made but are not reportable due to being below the threshold, the account must still be reported with zero in box 3. Additionally, enter any backup withholding in box 4 for individuals who have not provided their TINs.",
+        "timestamp": "2025-04-21T21:13:40.422641",
+        "token_count": 259
+    },
+    {
+        "chunk_id": 19,
+        "chunk_name": "Income reporting for specific activities.",
+        "filename": "Income_reporting_for_specific_activities._019.txt",
+        "original_chunk_text": ". Also enter any income tax withheld from payments to members of Indian tribes from the net revenues of class II or class III gaming activities conducted or licensed by the tribes. Box 5. Fishing Boat Proceeds If you are the operator of a fishing boat, enter the individual's share of all proceeds from the sale of a catch or the FMV of a distribution in kind to each crew member of fishing boats with normally fewer than 10 crew members. A fishing boat has normally fewer than 10 crew members if the average size of the operating crew was fewer than 10 on trips during the preceding 4 calendar quarters. In addition, report cash payments of up to $100 per trip that are contingent on a minimum catch and are paid solely for additional duties (such as mate, engineer, or cook) for which additional cash payments are traditional in the industry. However, do not report on Form 1099MISC any wages reportable on Form W2. Box 6. Medical and Health Care Payments Enter payments of $600 or more made in the course of your trade or business to each physician or other supplier or provider of medical or health care services",
+        "summary": "Report income tax withheld from payments to Indian tribe members from class II or III gaming activities. For fishing boat operators, report individual crew members' shares of proceeds or distributions, along with cash payments for additional duties, but exclude wages reported on Form W-2. Additionally, report medical and health care payments of $600 or more made to providers.",
+        "timestamp": "2025-04-21T21:13:47.787094",
+        "token_count": 232
+    },
+    {
+        "chunk_id": 20,
+        "chunk_name": "Insurance payment reporting guidelines.",
+        "filename": "Insurance_payment_reporting_guidelines._020.txt",
+        "original_chunk_text": ". Include payments made by medical and health care insurers under health, accident, and sickness insurance programs. If payment is made to a corporation, list the corporation as the recipient rather than the individual providing the services. Payments to persons providing health care services often include charges for injections, drugs, dentures, and similar items. In these cases, the entire payment is subject to information reporting. You are not required to report payments to pharmacies for prescription drugs. The exemption from issuing Form 1099MISC to a corporation does not apply to payments for medical or health care services provided by corporations, including professional corporations. However, you are not required to report payments made to a taxexempt hospital or extended care facility or to a hospital or extended care facility owned and operated by the United States (or its territories), a state, the District of Columbia, or any of their political subdivisions, agencies, or instrumentalities",
+        "summary": "Payments made by medical and health care insurers for health, accident, and sickness insurance programs must be reported, including charges for services like injections and drugs. Payments to corporations for medical services should be reported, but payments to tax-exempt hospitals or government-operated facilities do not require reporting. Pharmacies for prescription drugs are exempt from reporting requirements.",
+        "timestamp": "2025-04-21T21:13:50.027908",
+        "token_count": 182
+    },
+    {
+        "chunk_id": 21,
+        "chunk_name": "Tax reporting exemptions for payments.",
+        "filename": "Tax_reporting_exemptions_for_payments._021.txt",
+        "original_chunk_text": ". Generally, payments made under a flexible spending arrangement (as defined in section 106(c)(2)) or a health reimbursement arrangement, which is treated as employerprovided coverage under an accident or health plan for purposes of section 106 are exempt from the reporting requirements of section 6041. Box 7. Payer Made Direct Sales Totaling $5,000 or More Enter an \u201cX\u201d in the checkbox for sales by you totaling $5,000 or more of consumer products to a person on a buysell, depositcommission, or other commission basis for resale (by the buyer or any other person) anywhere other than in a permanent retail establishment. Do not enter a dollar amount in this box. You may either use box 7 on Form 1099MISC or box 2 on Form 1099NEC to report the direct sales totaling $5,000 or more. If you use Form 1099NEC to report these sales, then you are required to file the Form 1099NEC with the IRS by January 31. Report these sales on only one form. The report you must give to the recipient for these direct sales need not be made on the official form. It may be in the form of a letter showing this information along with commissions, prizes, awards, etc. Box 8",
+        "summary": "Payments under flexible spending arrangements or health reimbursement arrangements are exempt from section 6041 reporting requirements. For direct sales totaling $5,000 or more, report using either Form 1099-MISC or Form 1099-NEC, with the latter due by January 31. The recipient report does not need to be on an official form and can be a letter with the necessary information.",
+        "timestamp": "2025-04-21T21:13:52.440787",
+        "token_count": 269
+    },
+    {
+        "chunk_id": 22,
+        "chunk_name": "Substitute payments reporting requirements.",
+        "filename": "Substitute_payments_reporting_requirements._022.txt",
+        "original_chunk_text": ". Box 8. Substitute Payments in Lieu of Dividends or Interest Enter aggregate payments of at least $10 of substitute payments received by a broker for a customer in lieu of dividends or taxexempt interest as a result of a loan of a customer's securities. Substitute payment means a payment in lieu of: 1. A dividend, or 2. Taxexempt interest to the extent that interest (including original issue discount) has accrued while the securities were on a loan. For this purpose, a customer includes an individual, trust, estate, partnership, association, company, or corporation. See Notice 200367, which is on page 752 of Internal Revenue Bulletin 200340 at IRS.gov/irb/ 200340_IRB#NOT200367. It does not include a taxexempt organization, the United States, any state, the District of Columbia, a U.S. territory, or a foreign government. File Form 1099MISC with the IRS and furnish a copy to the customer for whom you received the substitute payment. Box 9",
+        "summary": "Enter aggregate substitute payments of at least $10 received by a broker for a customer in lieu of dividends or tax-exempt interest due to a loan of the customer's securities. Substitute payments include payments for dividends or accrued tax-exempt interest. File Form 1099-MISC with the IRS and provide a copy to the customer.",
+        "timestamp": "2025-04-21T21:13:54.652942",
+        "token_count": 219
+    },
+    {
+        "chunk_id": 23,
+        "chunk_name": "Reporting cash payments for farmers.",
+        "filename": "Reporting_cash_payments_for_farmers._023.txt",
+        "original_chunk_text": ". Box 9. Crop Insurance Proceeds Enter crop insurance proceeds of $600 or more paid to farmers by insurance companies unless the farmer has informed the insurance company that expenses have been capitalized under section 278, 263A, or 447. Box 10. Gross Proceeds Paid to an Attorney Enter gross proceeds of $600 or more paid to an attorney in connection with legal services (regardless of whether the services are performed for the payer). See Payments to attorneys, earlier. CAUTION ! CAUTION ! 6 Instr. for Forms 1099MISC and 1099NEC (Rev. 012024) Box 11. Fish Purchased for Resale If you are in the trade or business of purchasing fish for resale, you must report total cash payments of $600 or more paid during the year to any person who is engaged in the trade or business of catching fish. You are required to keep records showing the date and amount of each cash payment made during the year, but you must report only the total amount paid for the year on Form 1099MISC. \"Fish\" means all fish and other forms of aquatic life. \"Cash\" means U.S. and foreign coin and currency and a cashier's check, bank draft, traveler's check, or money order",
+        "summary": "Report crop insurance proceeds of $600 or more paid to farmers, unless expenses are capitalized. Also, report gross proceeds of $600 or more paid to attorneys for legal services, and total cash payments of $600 or more made to individuals engaged in catching fish for resale. Maintain records of each payment but report only the total amount on Form 1099MISC.",
+        "timestamp": "2025-04-21T21:13:56.992842",
+        "token_count": 264
+    },
+    {
+        "chunk_id": 24,
+        "chunk_name": "Tax reporting and deferral instructions.",
+        "filename": "Tax_reporting_and_deferral_instructions._024.txt",
+        "original_chunk_text": ". Cash does not include a check drawn on your personal or business account. Box 12. Section 409A Deferrals You do not have to complete this box. For details, see Notice 2008115, available at IRS.gov/irb/ 200852_IRB#NOT2008115. If you complete this box, enter the total amount deferred during the year of at least $600 for the nonemployee under all nonqualified plans. The deferrals during the year include earnings on the current year and prior year deferrals. For additional information, see Regulations sections 1.409A1 through 1.409A6. See the instructions for box 15, later. For deferrals and earnings under nonqualified deferred compensation (NQDC) plans for employees, see the General Instructions for Forms W2 and W3. Box 13. FATCA Filing Requirement Checkbox Check this box if you are a U.S. payer that is reporting on Form(s) 1099 (including reporting payments on this Form 1099MISC) as part of satisfying your requirement to report with respect to a U.S. account for the purposes of chapter 4 of the Internal Revenue Code, as described in Regulations section 1.14714(d)(2)(iii)(A). In addition, check the box if you are an FFI reporting payments to a U.S",
+        "summary": "Box 12 requires reporting of Section 409A deferrals of at least $600 for nonemployees under nonqualified plans, including earnings from current and prior year deferrals. Box 13 is a checkbox for U.S. payers reporting on Form 1099 to comply with FATCA requirements regarding U.S. accounts. Additional details can be found in the referenced IRS regulations and instructions.",
+        "timestamp": "2025-04-21T21:13:59.254579",
+        "token_count": 281
+    },
+    {
+        "chunk_id": 25,
+        "chunk_name": "Tax regulations and reporting requirements.",
+        "filename": "Tax_regulations_and_reporting_requirements._025.txt",
+        "original_chunk_text": ". account pursuant to an election described in Regulations section 1.14714(d)(5) (i)(A). Finally, check the box if you are an FFI making the election described in Regulations section 1.14714(d)(5)(i) (A) and are reporting a U.S. account for chapter 4 purposes to which you made no payments during the year that are reportable on any applicable Form 1099 (or are reporting a U.S. account to which you made payments during the year that do not reach the applicable reporting threshold for any applicable Form 1099). Box 14. Excess Golden Parachute Payments Enter any excess golden parachute payments. An excess parachute payment is the amount over the base amount (the average annual compensation for services includible in the individual's gross income over the most recent 5 tax years). See Q/A38 through Q/A44 of Regulations section 1.280G1 for how to compute the excess amount. See Golden parachute payments, later, for more information. Box 15. Nonqualified Deferred Compensation Enter all amounts deferred (including earnings on amounts deferred) that are includible in income under section 409A because the NQDC plan fails to satisfy the requirements of section 409A",
+        "summary": "The text outlines reporting requirements for foreign financial institutions (FFIs) regarding U.S. accounts under specific regulations, including conditions for checking a box if no reportable payments were made. It also details the reporting of excess golden parachute payments, defined as amounts exceeding the average annual compensation over the last five tax years, and instructions for reporting nonqualified deferred compensation amounts that are includible in income due to noncompliance with section 409A.",
+        "timestamp": "2025-04-21T21:14:01.574855",
+        "token_count": 257
+    },
+    {
+        "chunk_id": 26,
+        "chunk_name": "Reporting exclusions for tax forms.",
+        "filename": "Reporting_exclusions_for_tax_forms._026.txt",
+        "original_chunk_text": ". Do not include amounts properly reported on a Form 1099MISC, corrected Form 1099MISC, Form W2, or Form W2c for a prior year. Also, do not include amounts that are considered to be subject to a substantial risk of forfeiture for purposes of section 409A. For additional information, see Regulations sections 1.409A1 through 1.409A6; Notice 2008113, available at IRS.gov/irb/ 200851_IRB#NOT2008113; Notice 2008115; Notice 20106, available at IRS.gov/irb/201003_IRB#NOT20106; and Notice 201080, available at IRS.gov/irb/ 201051_IRB#NOT201080. Boxes 16\u201318. State Information These boxes may be used by payers who participate in the Combined Federal/State Filing Program and/or who are required to file paper copies of this form with a state tax department. See Pub. 1220 for more information regarding the Combined Federal/State Filing Program. They are provided for your convenience only and need not be completed for the IRS. Use the state information boxes to report payments for up to two states. Keep the information for each state separated by the dash line. If you withheld state income tax on this payment, you may enter it in box 16",
+        "summary": "Do not include amounts reported on Forms 1099MISC, W2, or W2c for prior years, or amounts subject to substantial risk of forfeiture under section 409A. Boxes 16\u201318 are for state information and are optional for IRS reporting; they can be used for payments in up to two states if applicable. For more details, refer to the specified IRS regulations and notices.",
+        "timestamp": "2025-04-21T21:14:05.826606",
+        "token_count": 286
+    },
+    {
+        "chunk_id": 27,
+        "chunk_name": "State payment reporting instructions.",
+        "filename": "State_payment_reporting_instructions._027.txt",
+        "original_chunk_text": ". In box 17, enter the abbreviated name of the state and the payer's state identification number. The state number is the payer's identification number assigned by the individual state. In box 18, you may enter the amount of the state payment. If a state tax department requires that you send them a paper copy of this form, use Copy 1 to provide information to the state tax department. Give Copy 2 to the recipient for use in filing the recipient's state income tax return. Specific Instructions for Form 1099NEC File Form 1099NEC, Nonemployee Compensation, for each person in the course of your business to whom you have paid the following during the year.  At least $600 in: 1. Services performed by someone who is not your employee (including parts and materials) (box 1); or 2. Payments to an attorney (box 1). (See Payments to attorneys, later.) File Form 1099NEC or Form 1099MISC to report sales totaling $5,000 or more of consumer products to a person on a buysell, a depositcommission, or other commission basis for resale. If you use Form 1099NEC to report sales totaling $5,000 or more, then you are required to file Form 1099NEC with the IRS by January 31",
+        "summary": "In box 17 of Form 1099NEC, enter the state's abbreviated name and the payer's state identification number, while box 18 is for the state payment amount. Use Copy 1 for the state tax department if required, and give Copy 2 to the recipient for their state income tax return. File Form 1099NEC for each person paid at least $600 for services or attorney payments, and for sales of $5,000 or more of consumer products, with a",
+        "timestamp": "2025-04-21T21:14:08.237192",
+        "token_count": 277
+    },
+    {
+        "chunk_id": 28,
+        "chunk_name": "Form 1099NEC reporting requirements.",
+        "filename": "Form_1099NEC_reporting_requirements._028.txt",
+        "original_chunk_text": ". You must also file Form 1099NEC for each person from whom you have withheld any federal income tax (report in box 4) under the backup withholding rules regardless of the amount of the payment. Be sure to report each payment in the proper box because the IRS uses this information to determine whether the recipient has properly reported the payment. Trade or business reporting only. Report on Form 1099NEC only when payments are made in the course of your trade or business. Personal payments are not reportable. You are engaged in a trade or business if you operate for gain or profit. However, nonprofit organizations are considered to be engaged in a trade or business and are subject to these reporting requirements. Other organizations subject to these reporting requirements include trusts of CAUTION ! CAUTION ! Instr. for Forms 1099MISC and 1099NEC (Rev. 012024) 7 qualified pension or profitsharing plans of employers, certain organizations exempt from tax under section 501(c) or 501(d), farmers' cooperatives that are exempt from tax under section 521, and widely held fixed investment trusts",
+        "summary": "Form 1099NEC must be filed for each person from whom federal income tax has been withheld, regardless of the payment amount, and must report payments made in the course of trade or business. Personal payments are not reportable, but nonprofit organizations and certain other entities are subject to these reporting requirements.",
+        "timestamp": "2025-04-21T21:14:12.786527",
+        "token_count": 229
+    },
+    {
+        "chunk_id": 29,
+        "chunk_name": "Reportable payments to corporations.",
+        "filename": "Reportable_payments_to_corporations._029.txt",
+        "original_chunk_text": ". Payments by federal, state, or local government agencies are also reportable. Reportable payments to corporations. The following payments made to corporations must generally be reported on Form 1099NEC.  Attorneys' fees reported in box 1.  Payments by a federal executive agency for services (vendors) reported in box 1. Federal executive agencies may also have to file Form 8596, Information Return for Federal Contracts, and Form 8596A, Quarterly Transmittal of Information Returns for Federal Contracts, if a contracted amount for personal services is more than $25,000. See Rev. Rul. 200366, which is on page 1115 of Internal Revenue Bulletin 200326 at IRS.gov/pub/irsirbs/irb0326.pdf for details. Payments to attorneys. The term \u201cattorney\u201d includes a law firm or other provider of legal services. Attorneys' fees of $600 or more paid in the course of your trade or business are reportable in box 1 of Form 1099NEC, under section 6041A(a)(1). Gross proceeds paid to attorneys. Gross proceeds are not reportable by you in box 1 of Form 1099NEC. See the Form 1099MISC, box 10, instructions, earlier. Payments to corporations for legal services",
+        "summary": "Payments made by federal, state, or local government agencies to corporations must generally be reported on Form 1099-NEC, including attorneys' fees of $600 or more. Federal executive agencies may also need to file additional forms if contracted amounts exceed $25,000. Gross proceeds paid to attorneys are not reported on Form 1099-NEC but may be reported on Form 1099-MISC.",
+        "timestamp": "2025-04-21T21:14:15.219978",
+        "token_count": 275
+    },
+    {
+        "chunk_id": 30,
+        "chunk_name": "Legal services payment reporting requirements.",
+        "filename": "Legal_services_payment_reporting_requirements._030.txt",
+        "original_chunk_text": ". Payments to corporations for legal services. The exemption from reporting payments made to corporations does not apply to payments for legal services. Therefore, you must report attorneys' fees (in box 1 of Form 1099NEC) or gross proceeds (in box 10 of Form 1099MISC) as described earlier to corporations that provide legal services. Taxpayer identification numbers (TINs). To report payments to an attorney on Form 1099NEC, you must obtain the attorney's TIN. You may use Form W9 to obtain the attorney's TIN. An attorney is required to promptly supply its TIN whether it is a corporation or other entity, but the attorney is not required to certify its TIN. If the attorney fails to provide its TIN, the attorney may be subject to a penalty under section 6723 and its regulations, and you must backup withhold on the reportable payments. Independent contractor or employee. Generally, you must report payments to independent contractors on Form 1099NEC in box 1. See the instructions for box 1. Section 530 of the Revenue Act of 1978, as extended by section 269(c) of P.L. 97248, deals with the employment tax status of independent contractors and employees",
+        "summary": "Payments made to corporations for legal services must be reported on Form 1099NEC or Form 1099MISC, as the exemption for corporate payments does not apply. To report these payments, you must obtain the attorney's TIN using Form W9, and failure to provide it may result in penalties and backup withholding. Payments to independent contractors are generally reported on Form 1099NEC in box 1.",
+        "timestamp": "2025-04-21T21:14:17.659663",
+        "token_count": 260
+    },
+    {
+        "chunk_id": 31,
+        "chunk_name": "Independent contractor tax reporting rules.",
+        "filename": "Independent_contractor_tax_reporting_rules._031.txt",
+        "original_chunk_text": ". To qualify for relief under section 530, employers must file Form 1099NEC. Additional requirements for relief are discussed in Rev. Proc. 8518, 19851 C.B. 518. Also see Pub. 15A for special rules that may apply to technical service specialists and test proctors and room supervisors. Transit passes and parking for independent contrac tors. Although you cannot provide qualified transportation fringes to independent contractors, the working condition and de minimis fringe rules for transit passes and parking apply to independent contractors. Tokens or farecards that enable an independent contractor to commute on a public transit system (not including privately operated van pools) are CAUTION ! TIP excludable from the independent contractor's gross income and are not reportable on Form 1099NEC if their value in any month is $21 or less. However, if the value of a pass provided in a month is greater than $21, the full value is part of the gross income and must be reported on Form 1099NEC. The value of parking may be excludable from an independent contractor's gross income, and, therefore, not reportable on Form 1099NEC if certain requirements are met",
+        "summary": "Employers must file Form 1099NEC to qualify for relief under section 530, with additional requirements outlined in Rev. Proc. 8518 and Pub. 15A. Independent contractors can receive transit passes and parking benefits, which may be excludable from gross income if certain conditions are met; specifically, transit benefits valued at $21 or less per month are not reportable on Form 1099NEC. If the value exceeds $21, the full amount must be reported",
+        "timestamp": "2025-04-21T21:14:22.555360",
+        "token_count": 249
+    },
+    {
+        "chunk_id": 32,
+        "chunk_name": "Reporting requirements for commissions and fees.",
+        "filename": "Reporting_requirements_for_commissions_and_fees._032.txt",
+        "original_chunk_text": ". See Regulations section 1.1329(b), Q/A24. Directors' fees. You must report directors' fees and other remuneration, including payments made after retirement, on Form 1099NEC in the year paid. Report them in box 1. Commissions paid to lottery ticket sales agents. A state that has control over and responsibility for online and instant lottery games must file Form 1099NEC to report commissions paid, whether directly or indirectly, to licensed sales agents. For example, State X retains control over and liability for online and instant lottery games. For online ticket sales, State X pays commissions by allowing an agent to retain 5% of the ticket proceeds the agent remits to State X. For instant ticket sales, State X pays commissions by providing tickets to the agent for 5% less than the proceeds to be obtained by the agent from the sale of those tickets. If the commissions for the year total $600 or more, they must be reported in box 1 of Form 1099NEC. See Rev. Rul. 9296, 19922 C.B. 281. Payments made on behalf of another person",
+        "summary": "Directors' fees and other remuneration must be reported on Form 1099NEC in the year they are paid, including payments made after retirement. States controlling online and instant lottery games must also report commissions paid to licensed sales agents on Form 1099NEC if the total is $600 or more. Commissions can be reported based on the agent's retention of ticket proceeds or discounted ticket prices.",
+        "timestamp": "2025-04-21T21:14:25.052456",
+        "token_count": 239
+    },
+    {
+        "chunk_id": 33,
+        "chunk_name": "Payment reporting responsibilities and exceptions.",
+        "filename": "Payment_reporting_responsibilities_and_exceptions._033.txt",
+        "original_chunk_text": ". 281. Payments made on behalf of another person. For payments reportable under section 6041, if you make a payment on behalf of another person who is the source of the funds, you may be responsible for filing Form 1099NEC. You are the payor for information reporting purposes if you perform management or oversight functions in connection with the payment, or have a significant economic interest in the payment (such as a lien). For example, a bank that provides financing to a real estate developer for a construction project maintains an account from which it makes payments for services in connection with the project. The bank performs management and oversight functions over the payments and is responsible for filing information returns for payments of $600 or more paid to contractors. For more information, see Regulations section 1.60411(e). Exceptions Some payments do not have to be reported on Form 1099NEC, although they may be taxable to the recipient. Payments for which a Form 1099NEC is not required include all of the following.  Generally, payments to a corporation (including a limited liability company (LLC) that is treated as a C or S corporation)",
+        "summary": "Payments made on behalf of another person may require filing Form 1099NEC if the payor has management oversight or a significant economic interest in the payment. For example, a bank financing a construction project is responsible for reporting payments over $600 to contractors. However, certain payments, such as those made to corporations, do not require a Form 1099NEC, even if they are taxable to the recipient.",
+        "timestamp": "2025-04-21T21:14:27.620542",
+        "token_count": 237
+    },
+    {
+        "chunk_id": 34,
+        "chunk_name": "Payment reporting requirements summary.",
+        "filename": "Payment_reporting_requirements_summary._034.txt",
+        "original_chunk_text": ". However, see Reportable payments to corporations, earlier.  Payments for merchandise, telegrams, telephone, freight, storage, and similar items.  Payments of rent to real estate agents or property managers. However, the real estate agent or property manager must use Form 1099MISC to report the rent paid over to the property owner. See Regulations section 1.60413(d); Regulations section 1.60411(e)(5), Example 5; and the instructions for box 1.  Wages, any bonuses, prizes, and awards paid to employees (report these on Form W2).  Military differential wage payments made to employees while they are on active duty in the U.S. Armed Forces or other uniformed services (report on Form W2). 8 Instr. for Forms 1099MISC and 1099NEC (Rev. 012024)  Business travel allowances paid to employees (may be reportable on Form W2).  Cost of current life insurance protection (report on Form W2 or Form 1099R).  Payments to a taxexempt organization including taxexempt trusts (IRAs, HSAs, Archer MSAs, Coverdell ESAs, and ABLE (529A) accounts), the United States, a state, the District of Columbia, a U.S. territory, or a foreign government",
+        "summary": "Payments for merchandise, rent to real estate agents, and various employee compensations such as wages and bonuses must be reported on specific tax forms like Form 1099-MISC or Form W-2. Military differential wage payments and certain business travel allowances are also reportable. Additionally, payments to tax-exempt organizations and government entities have specific reporting requirements.",
+        "timestamp": "2025-04-21T21:14:29.955026",
+        "token_count": 281
+    },
+    {
+        "chunk_id": 35,
+        "chunk_name": "Tax reporting and compensation guidelines.",
+        "filename": "Tax_reporting_and_compensation_guidelines._035.txt",
+        "original_chunk_text": ". territory, or a foreign government.  Payments made to or for homeowners from the HFA Hardest Hit Fund or similar state program (report on Form 1098MA).  Compensation for injuries or sickness by the Department of Justice as a PSO disability or survivor's benefit, or under a state program that provides benefits for surviving dependents of a PSO who has died as the direct and proximate result of a personal injury sustained in the line of duty.  Compensation for wrongful incarceration for any criminal offense for which there was a conviction under federal or state law. See section 139F, Certain amounts received by wrongfully incarcerated individuals. State or local sales taxes. If state or local sales taxes are imposed on the service provider and you (as the buyer) pay them to the service provider, report them on Form 1099NEC as part of the reportable payment. However, if sales taxes are imposed on you (as the buyer) and collected from you by the service provider, do not report the sales taxes on Form 1099NEC. Form 1099K",
+        "summary": "Payments from the HFA Hardest Hit Fund and similar programs should be reported on Form 1098MA. Compensation for injuries or wrongful incarceration must be reported according to specific guidelines, while state or local sales taxes paid to service providers are reported on Form 1099NEC if imposed on the provider.",
+        "timestamp": "2025-04-21T21:14:32.038949",
+        "token_count": 221
+    },
+    {
+        "chunk_id": 36,
+        "chunk_name": "Payment reporting requirements overview.",
+        "filename": "Payment_reporting_requirements_overview._036.txt",
+        "original_chunk_text": ". Form 1099K. Payments made with a credit card or payment card and certain other types of payments, including thirdparty network transactions, must be reported on Form 1099K by the payment settlement entity under section 6050W and are not subject to reporting on Form 1099NEC. See the separate Instructions for Form 1099K. Fees paid to informers. A payment to an informer as an award, fee, or reward for information about criminal activity does not have to be reported if the payment is made by a federal, state, or local government agency, or by a nonprofit organization exempt from tax under section 501(c)(3) that makes the payment to further the charitable purpose of lessening the burdens of government. For more information, see Regulations section 1.60413(l). Scholarships. Do not use Form 1099NEC to report scholarship or fellowship grants. Scholarship or fellowship grants that are taxable to the recipient because they are paid for teaching, research, or other services as a condition for receiving the grant are considered wages and must be reported on Form W2",
+        "summary": "Payments made via credit or payment cards and certain third-party transactions must be reported on Form 1099K, not Form 1099NEC. Payments to informers by government agencies or certain nonprofits do not need to be reported. Scholarships or fellowships that are taxable due to conditions must be reported on Form W2, not Form 1099NEC.",
+        "timestamp": "2025-04-21T21:14:34.530733",
+        "token_count": 227
+    },
+    {
+        "chunk_id": 37,
+        "chunk_name": "Tax reporting exemptions and requirements.",
+        "filename": "Tax_reporting_exemptions_and_requirements._037.txt",
+        "original_chunk_text": ". Other taxable scholarship or fellowship payments (to a degree or nondegree candidate) do not have to be reported to the IRS on any form, unless section 6050S requires reporting of such amounts by an educational institution on Form 1098T. See section 117(b)\u2013 (d) and Regulations section 1.60413(n) for more information. Difficultyofcare payments. Do not use Form 1099NEC to report difficultyofcare payments that are excludable from the recipient's gross income. Difficultyofcare payments to foster care providers are not reportable if paid for fewer than 11 children under age 19 and fewer than six individuals age 19 or older. See section 131(c). Amounts paid for more than 10 children or more than five other individuals are reportable on Form 1099NEC. Certain Medicaid waiver payments may be excludable from income as difficultyofcare payments. For more information, see Notice 20147, available at IRS.gov/irb/ 20144_IRB#NOT20147; and Medicaid waiver payments frequently asked questions (FAQs), available at IRS.gov/ Individuals/CertainMedicaidPaymentsMayBeExcludable FromIncome. Canceled debt. A canceled debt is not reportable on Form 1099NEC",
+        "summary": "Taxable scholarship or fellowship payments must be reported to the IRS only if required by section 6050S on Form 1098T. Difficulty-of-care payments to foster care providers are not reportable if they are for fewer than 11 children under age 19 or fewer than six individuals age 19 or older, while amounts exceeding these thresholds must be reported on Form 1099NEC. Canceled debt is not reportable on Form 1099NEC.",
+        "timestamp": "2025-04-21T21:14:36.761408",
+        "token_count": 267
+    },
+    {
+        "chunk_id": 38,
+        "chunk_name": "Tax reporting for employee reimbursements.",
+        "filename": "Tax_reporting_for_employee_reimbursements._038.txt",
+        "original_chunk_text": ". Canceled debts reportable under section 6050P must be reported on Form 1099C. See the Instructions for Forms 1099A and 1099C. Employee business expense reimbursements. Do not use Form 1099NEC to report employee business expense reimbursements. Report payments made to employees under a nonaccountable plan as wages on Form W2. Generally, payments made to employees under an accountable plan are not reportable on Form W2, except in certain cases when you pay a per diem or mileage allowance. For more information, see the General Instructions for Forms W2 and W3, and Pub. 463. For information on reporting employee moving expense reimbursements on Form W2, see the General Instructions for Forms W2 and W3. Statements to Recipients If you are required to file Form 1099NEC, you must furnish a statement to the recipient. For more information about the requirement to furnish a statement to each recipient, and truncation, see part M in the current year General Instructions for Certain Information Returns. You can furnish each recipient with a single payee statement reporting all Form 1099NEC payment types",
+        "summary": "Canceled debts must be reported on Form 1099C, while employee business expense reimbursements should not be reported on Form 1099NEC but rather as wages on Form W2 for nonaccountable plans. Accountable plan payments are generally not reported on Form W2, except for certain allowances. If filing Form 1099NEC, a statement must be provided to the recipient.",
+        "timestamp": "2025-04-21T21:14:38.999281",
+        "token_count": 239
+    },
+    {
+        "chunk_id": 39,
+        "chunk_name": "Truncation of TIN on statements.",
+        "filename": "Truncation_of_TIN_on_statements._039.txt",
+        "original_chunk_text": ". You are required to furnish the payee statements and file with the IRS by January 31. Truncating recipient\u2019s TIN on payee statements. Pursuant to Regulations section 301.61094, all filers of this form may truncate a recipient\u2019s TIN (social security number (SSN), individual taxpayer identification number (ITIN), adoption taxpayer identification number (ATIN), or employer identification number (EIN)) on payee statements. Truncation is not allowed on any documents the filer files with the IRS. A payer's TIN may not be truncated on any form. See part J in the current year General Instructions for Certain Information Returns. 2nd TIN Not. You may enter an \u201cX\u201d in this box if you were notified by the IRS twice within 3 calendar years that the payee provided an incorrect TIN. If you mark this box, the IRS will not send you any further notices about this account. However, if you received both IRS notices in the same year, or if you received them in different years but they both related to information returns filed for the same year, do not check the box at this time",
+        "summary": "Payees must receive statements and filers must submit them to the IRS by January 31. Filers can truncate recipients' TINs on payee statements but not on IRS filings. If notified by the IRS twice about an incorrect TIN, filers can mark an \"X\" to stop further notices, with specific conditions for marking this box.",
+        "timestamp": "2025-04-21T21:14:41.410857",
+        "token_count": 238
+    },
+    {
+        "chunk_id": 40,
+        "chunk_name": "Tax form correction procedures.",
+        "filename": "Tax_form_correction_procedures._040.txt",
+        "original_chunk_text": ". For purposes of the twonoticesin3years rule, you are considered to have received one notice and you are not required to send a second \u201cB\u201d notice to the taxpayer on receipt of the second notice. See part N in the current year General Instructions for Certain Information Returns for more information. For information on the TIN Matching System offered by the IRS, see the current year General Instructions for Certain Information Returns. Corrections to Form 1099NEC If you need to correct a Form 1099NEC that you have already sent to the IRS: TIP Instr. for Forms 1099MISC and 1099NEC (Rev. 012024) 9  For paper forms, see part H in the current year General Instructions for Certain Information Returns; or  For electronic corrections, see Pub. 1220. If you are filing a correction on a paper form, do not check the VOID box on the form. A checked VOID box alerts IRS scanning equipment to ignore the form and proceed to the next one. Your correction will not be entered into IRS records if you check the VOID box. Recipient's TIN Enter the recipient's TIN using hyphens in the proper format. SSNs, ITINs, and ATINs should be in the XXXXXXXXX format",
+        "summary": "For the two notices in three years rule, only one notice is required, and a second \"B\" notice is not necessary upon receipt of the second notice. To correct a Form 1099NEC, do not check the VOID box on paper forms, as this prevents the correction from being recorded by the IRS. Ensure the recipient's TIN is entered in the correct format with hyphens.",
+        "timestamp": "2025-04-21T21:14:43.713599",
+        "token_count": 269
+    },
+    {
+        "chunk_id": 41,
+        "chunk_name": "Reporting nonemployee compensation accurately.",
+        "filename": "Reporting_nonemployee_compensation_accurately._041.txt",
+        "original_chunk_text": ". EINs should be in the XXXXXXXXX format. You should make every effort to ensure that you have the correct type of number reported in the correct format. Account Number The account number is required if you have multiple accounts for a recipient for whom you are filing more than one Form 1099NEC. See part L in the current year General Instructions for Certain Information Returns. Box 1. Nonemployee Compensation Enter nonemployee compensation (NEC) of $600 or more. Include fees, commissions, prizes and awards for services performed as a nonemployee, and other forms of compensation for services performed for your trade or business by an individual who is not your employee. Include oil and gas payments for a working interest, whether or not services are performed. Also include expenses incurred for the use of an entertainment facility that you treat as compensation to a nonemployee. Federal executive agencies that make payments to vendors for services, including payments to corporations, must report the payments in this box. See Rev. Rul. 200366. What is NEC? If the following four conditions are met, you must generally report a payment as NEC",
+        "summary": "EINs must be reported in the specified format, and an account number is required for multiple accounts when filing Form 1099NEC. Nonemployee compensation (NEC) of $600 or more must be reported, including fees, commissions, and other forms of compensation for services performed by nonemployees. Federal executive agencies must also report payments to vendors for services in this category.",
+        "timestamp": "2025-04-21T21:14:46.123229",
+        "token_count": 229
+    },
+    {
+        "chunk_id": 42,
+        "chunk_name": "Payment reporting requirements for businesses.",
+        "filename": "Payment_reporting_requirements_for_businesses._042.txt",
+        "original_chunk_text": ".  You made the payment to someone who is not your employee.  You made the payment for services in the course of your trade or business (including government agencies and nonprofit organizations).  You made the payment to an individual, partnership, estate, or, in some cases, a corporation.  You made payments to the payee of at least $600 during the year. Selfemployment tax. Generally, amounts paid to individuals that are reportable in box 1 are subject to selfemployment tax. If payments to individuals are not subject to this tax, report the payments in box 3 of Form 1099MISC. However, report section 530 (of the Revenue Act of 1978) worker payments in box 1 of Form 1099NEC. Examples. The following are some examples of payments to be reported in box 1.  Professional service fees, such as fees to attorneys (including corporations), accountants, architects, contractors, engineers, etc.  Fees paid by one professional to another, such as feesplitting or referral fees.  Payments by attorneys to witnesses or experts in legal adjudication",
+        "summary": "Payments made to non-employees for services in the course of trade or business must be reported if they total at least $600 during the year. These payments are generally subject to self-employment tax and should be reported in box 1 of Form 1099-NEC, while other non-taxable payments go in box 3 of Form 1099-MISC. Examples include professional service fees to attorneys, accountants, and other service providers.",
+        "timestamp": "2025-04-21T21:14:52.001788",
+        "token_count": 229
+    },
+    {
+        "chunk_id": 43,
+        "chunk_name": "Payment reporting for services provided.",
+        "filename": "Payment_reporting_for_services_provided._043.txt",
+        "original_chunk_text": ". CAUTION ! CAUTION !  Payment for services, including payment for parts or materials used to perform the services if supplying the parts or materials was incidental to providing the service. For example, report the total insurance company payments to an auto repair shop under a repair contract showing an amount for labor and another amount for parts, if furnishing parts was incidental to repairing the auto.  Commissions paid to nonemployee salespersons that are subject to repayment but not repaid during the calendar year.  A fee paid to a nonemployee, including an independent contractor, or travel reimbursement for which the nonemployee did not account to the payer, if the fee and reimbursement total at least $600. To help you determine whether someone is an independent contractor or an employee, see Pub. 15A.  Payments to nonemployee entertainers for services. Use Form 1042S, Foreign Person's U.S. Source Income Subject to Withholding, for payments to nonresident aliens.  Exchanges of services between individuals in the course of their trades or businesses",
+        "summary": "Payments for services, including incidental parts or materials, must be reported if they total at least $600. This includes commissions to nonemployee salespersons and fees to nonemployees or independent contractors that are not accounted for. Additionally, payments to nonemployee entertainers and exchanges of services between businesses should be noted, with specific reporting requirements for nonresident aliens using Form 1042S.",
+        "timestamp": "2025-04-21T21:14:54.809718",
+        "token_count": 212
+    },
+    {
+        "chunk_id": 44,
+        "chunk_name": "Tax reporting for bartering services.",
+        "filename": "Tax_reporting_for_bartering_services._044.txt",
+        "original_chunk_text": ". For example, an attorney represents a painter for nonpayment of business debts in exchange for the painting of the attorney's law offices. The amount reportable by each on Form 1099NEC is the FMV of their own services performed. However, if the attorney represents the painter in a divorce proceeding, this is an activity that is unrelated to the painter's trade or business. The attorney must report on Form 1099NEC the value of their services. But the painter need not report on Form 1099NEC the value of painting the law offices because the work is in exchange for legal services that are separate from the painter's business.  Taxable fringe benefits for nonemployees. For information on the valuation of fringe benefits, see Pub. 15B.  Gross oil and gas payments for a working interest.  Payments to an insurance salesperson who is not your common law or statutory employee. See Pub. 15A for the definition of employee. However, for termination payments to former insurance salespeople, see the instructions for box 3 of Form 1099MISC.  Directors' fees as explained under Directors' fees, earlier",
+        "summary": "An attorney and a painter can report the fair market value (FMV) of their services on Form 1099NEC when they exchange services related to the painter's business. However, if the attorney provides unrelated legal services, only the attorney must report the value of their services, while the painter does not need to report the painting work. Additional guidance is provided for taxable fringe benefits and payments to nonemployees, including insurance salespeople.",
+        "timestamp": "2025-04-21T21:14:57.393106",
+        "token_count": 236
+    },
+    {
+        "chunk_id": 45,
+        "chunk_name": "Compensation and change in ownership.",
+        "filename": "Compensation_and_change_in_ownership._045.txt",
+        "original_chunk_text": ".  Commissions paid to licensed lottery ticket sales agents as explained under Commissions paid to lottery ticket sales agents, earlier.  Payments to section 530 (of the Revenue Act of 1978) workers. See the TIP under Independent contractor or employee, earlier. Golden parachute payments. A parachute payment is any payment that meets all of the following conditions. 1. The payment is in the nature of compensation. 2. The payment is to, or for the benefit of, a disqualified individual. A disqualified individual is one who at any time during the 12month period prior to and ending on the date of the change in ownership or control of the corporation (the disqualified individual determination period) was an employee or independent contractor and was, in regard to that corporation, a shareholder, an officer, or a highly compensated individual. 3. The payment is contingent on a change in the ownership of a corporation, the effective control of a corporation, or the ownership of a substantial portion of the assets of a corporation (a change in ownership or control). 4",
+        "summary": "Commissions are paid to licensed lottery ticket sales agents and section 530 workers. Golden parachute payments are compensatory payments made to disqualified individuals contingent on a change in ownership or control of a corporation. A disqualified individual is someone who was an employee, independent contractor, or highly compensated individual within a specific 12-month period prior to the ownership change.",
+        "timestamp": "2025-04-21T21:14:59.513655",
+        "token_count": 216
+    },
+    {
+        "chunk_id": 46,
+        "chunk_name": "Golden parachute payment guidelines.",
+        "filename": "Golden_parachute_payment_guidelines._046.txt",
+        "original_chunk_text": ". 4. The payment has (together with other payments described in (1), (2), and (3), above, made to the same individual) an aggregate present value of at least three times the individual's base amount. 10 Instr. for Forms 1099MISC and 1099NEC (Rev. 012024) For more details, see Regulations section 1.280G1. Also, see Rev. Proc. 200368, which is on page 398 of Internal Revenue Bulletin 200334 at IRS.gov/irb/ 200334_IRB#RP200368, concerning the valuation of stock options for purposes of golden parachute payment rules. For the treatment of unvested shares of restricted stock, see Rev. Rul. 200539, available at IRS.gov/irb/ 200527_IRB#RR200539. Independent contractor. Enter in box 1 the total compensation, including any golden parachute payment. For excess golden parachute payments, see the instructions for box 14 of Form 1099MISC. For employee reporting of these payments, see Pub. 15A. Payments not reported in box 1",
+        "summary": "The payment, along with others made to the same individual, must have an aggregate present value of at least three times the individual's base amount. For details on golden parachute payment rules and the valuation of stock options, refer to specific IRS regulations and publications. Independent contractors should report total compensation, including golden parachute payments, in box 1 of Form 1099MISC.",
+        "timestamp": "2025-04-21T21:15:01.625962",
+        "token_count": 242
+    },
+    {
+        "chunk_id": 47,
+        "chunk_name": "Payment reporting exclusions and classifications.",
+        "filename": "Payment_reporting_exclusions_and_classifications._047.txt",
+        "original_chunk_text": ". 15A. Payments not reported in box 1. Do not report in box 1:  Expense reimbursements paid to volunteers of nonprofit organizations;  Deceased employee wages paid in the year after death (report in box 3 of Form 1099MISC) (see Deceased employee's wages, earlier);  Payments more appropriately described as rent (report in box 1 of Form 1099MISC), royalties (report in box 2 of Form 1099MISC), other income not subject to selfemployment tax (report in box 3 of Form 1099MISC), and interest (use Form 1099INT);  The cost of current life insurance protection (report on Form W2 or Form 1099R);  An employee's wages, travel or auto allowance, or bonuses and prizes (report on Form W2); and  The cost of groupterm life insurance paid on behalf of a former employee (report on Form W2). Box 2. Payer Made Direct Sales Totaling $5,000 or More Enter an \"X\" in the checkbox for sales by you totaling $5,000 or more of consumer products to a person on a buysell, depositcommission, or other commission basis for resale (by the buyer or any other person) anywhere other than in a permanent retail establishment. Do not enter a dollar amount in this box",
+        "summary": "Do not report certain payments in box 1, including expense reimbursements for nonprofit volunteers, deceased employee wages, and various other payments that should be reported on different forms. Additionally, if a payer made direct sales totaling $5,000 or more of consumer products for resale, an \"X\" should be marked in the checkbox without entering a dollar amount.",
+        "timestamp": "2025-04-21T21:15:03.888657",
+        "token_count": 285
+    },
+    {
+        "chunk_id": 48,
+        "chunk_name": "Reporting requirements for direct sales.",
+        "filename": "Reporting_requirements_for_direct_sales._048.txt",
+        "original_chunk_text": ". Do not enter a dollar amount in this box. You may either use box 2 on Form 1099NEC or box 7 on Form 1099MISC to report the direct sales totaling $5,000 or more. If you use Form 1099NEC to report these sales, then you are required to file the Form 1099NEC with the IRS by January 31. Report these sales on only one form. The report you must give to the recipient for these direct sales need not be made on the official form. It may be in the form of a letter showing this information along with commissions, prizes, awards, etc. Box 4. Federal Income Tax Withheld Enter backup withholding. For example, persons who have not furnished their TINs to you are subject to withholding on payments required to be reported in box 1. For more information on backup withholding, including the rate, see part N in the current year General Instructions for Certain Information Returns. Boxes 5\u20137. State Information These boxes are provided for your convenience only and need not be completed for the IRS. Use the state information boxes to report payments for up to two states. Keep the information for each state separated by the dash line",
+        "summary": "To report direct sales totaling $5,000 or more, use either box 2 on Form 1099NEC or box 7 on Form 1099MISC, and file with the IRS by January 31 if using Form 1099NEC. The recipient report does not need to be on the official form and can be a letter with the necessary information. Backup withholding applies if TINs are not provided, and state information boxes are optional for IRS reporting.",
+        "timestamp": "2025-04-21T21:15:06.857558",
+        "token_count": 252
+    },
+    {
+        "chunk_id": 49,
+        "chunk_name": "State tax withholding instructions.",
+        "filename": "State_tax_withholding_instructions._049.txt",
+        "original_chunk_text": ". If you withheld state income tax on this payment, you may enter it in box 5. In box 6, enter the abbreviated name of the state and the payer's state identification number. In box 7, you may enter the amount of the state payment. If a state tax department requires that you send them a paper copy of this form, use Copy 1 to provide information to the state tax department. Give Copy 2 to the recipient for use in filing the recipient's state income tax return. CAUTION ! Instr. for Forms 1099MISC and 1099NEC (Rev. 012024) 11",
+        "summary": "If state income tax was withheld, report it in box 5, and include the state's abbreviated name and payer's state ID in box 6. Enter the state payment amount in box 7 if applicable. Provide Copy 1 to the state tax department and Copy 2 to the recipient for their state income tax return.",
+        "timestamp": "2025-04-21T21:15:09.086569",
+        "token_count": 132
+    }
+]

@@ -1,0 +1,5 @@
+Chunk Name: Reporting student TIN for taxes.
+Summary: Check the box if you obtained the student's TIN in writing for the current or a prior year, or if you have no record of a TIN but solicited it in writing by December 31 of the filing year. This applies to Form W9S or other forms.
+
+Chunk Content:
+. If you solicited the student’s  TIN in writing (Form W9S or other form) for the current  year, check the box. Also check the box if you obtained  the student’s TIN in a prior year by making a solicitation in  writing (Form W9S or other form) or you obtained the  student’s TIN in a prior year from his or her financial aid  application or other form and in either case have no  reason to believe the TIN previously obtained is incorrect.  Check the box if the institution is filing the Form 1098T  with nothing in the field for the student’s TIN because the  institution has no record of a TIN, but only if you made a  written solicitation for the TIN on or before December 31  of the year for which you are filing the Form 1098T

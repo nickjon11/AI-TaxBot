@@ -1,0 +1,353 @@
+[
+    {
+        "chunk_id": 1,
+        "chunk_name": "Claiming refunds for deceased taxpayers.",
+        "filename": "Claiming_refunds_for_deceased_taxpayers._001.txt",
+        "original_chunk_text": "Claiming a refund for a deceased taxpayer. If you are filing a joint return as a surviving spouse, you only need to file Form 1040X to claim the refund. If you are a courtappointed personal representative or any other person claiming the refund, file Form 1040X and attach Form 1310, Statement of Person Claiming Refund Due a Deceased Taxpayer, and any other information required by its instructions. For more details, see Pub. 559, Survivors, Executors, and Administrators. Household employment taxes. If you are correcting an error in the employment taxes for household employees that you reported on a Schedule H previously filed with Form 1040, 1040SR, 1040NR, or 1040SS, attach a corrected Schedule H and include in Part II of Form 1040X the date the error was discovered. If you filed Formulario 1040PR, file a Form 1040X and attach a corrected Anexo HPR. If you owe tax, pay in full with this return",
+        "summary": "To claim a refund for a deceased taxpayer, a surviving spouse must file Form 1040X, while others need to attach Form 1310. For correcting household employment taxes reported on Schedule H, a corrected Schedule H should be attached to Form 1040X, including the error discovery date. If taxes are owed, they must be paid in full with the return.",
+        "timestamp": "2025-04-21T21:05:40.054482",
+        "token_count": 215
+    },
+    {
+        "chunk_id": 2,
+        "chunk_name": "Tax obligations and corrections.",
+        "filename": "Tax_obligations_and_corrections._002.txt",
+        "original_chunk_text": ". If you owe tax, pay in full with this return. If you are changing the wages paid to an employee for whom you filed Form W2, you must also file Form W2c, and Form W3c, Transmittal of Corrected Wage and Tax Statements, with the Social Security Administration. For more information, see Pub. 926 for the appropriate year. Injured spouse claim. If you filed a Form 8379 and are filing a Form 1040X to request an additional refund, and you don\u2019t want your portion of the overpayment to be applied (offset) against your spouse's pastdue obligation(s), complete and attach another Form 8379 to allocate the additional refund. Signing your minor child's return. If your minor child can\u2019t sign the return, either parent can sign the child's name in the space provided. Enter \u201cBy (your signature), parent for minor child.\u201d Tax shelters",
+        "summary": "If you owe taxes, pay in full with your return. For corrections to employee wages, file Form W2c and Form W3c with the Social Security Administration. If filing a Form 1040X for an injured spouse claim, attach another Form 8379 to allocate the additional refund.",
+        "timestamp": "2025-04-21T21:05:42.158034",
+        "token_count": 189
+    },
+    {
+        "chunk_id": 3,
+        "chunk_name": "Tax amending process for wrongful incarceration.",
+        "filename": "Tax_amending_process_for_wrongful_incarceration._003.txt",
+        "original_chunk_text": ". If you are amending your return to disclose information for a reportable transaction in which you participated, attach Form 8886, Reportable Transaction Disclosure Statement. Wrongfully incarcerated individuals. Certain amounts you receive due to wrongful incarceration may be excluded from gross income. If you included these amounts in income in a prior year, you may be able to amend your return to claim a refund or credit against your tax. For the latest information, go to IRS.gov/ newsroom/irsupdatesfrequentlyaskedquestionsrelatedto wrongfulincarceration. Tracking Your Amended Return You should generally allow 8 to 12 weeks for Form 1040X to be processed. However, in some cases, processing could take up to 16 weeks. Go to Where's My Amended Return on IRS.gov to track the status of your amended return. It can take up to 3 weeks from the date you mail it to show up in our system. You will need to provide the following information",
+        "summary": "To amend your return for a reportable transaction, attach Form 8886. Wrongfully incarcerated individuals may exclude certain amounts from gross income and can amend prior returns for refunds. Expect 8 to 12 weeks for processing Form 1040X, and use the IRS website to track its status.",
+        "timestamp": "2025-04-21T21:05:44.223637",
+        "token_count": 200
+    },
+    {
+        "chunk_id": 4,
+        "chunk_name": "Amending tax return instructions.",
+        "filename": "Amending_tax_return_instructions._004.txt",
+        "original_chunk_text": ".  Your taxpayer identification number (for most taxpayers, that is their SSN).  Your date of birth.  Your ZIP code or postal code. Specific Instructions Line Instructions Calendar or Fiscal Year Above your name, enter the calendar year or fiscal year you are amending. Name, Current Address, and Social Security Number (SSN) If you and your spouse are amending a joint return, list your names and SSNs in the same order as shown on the original return. If you are changing from a separate to a joint return and your spouse didn\u2019t file an original return, enter your name and SSN first. Change of address. If you have moved since you filed your original return, enter your current address on Form 1040X. P.O. box. Enter your box number only if your post office doesn\u2019t deliver mail to your home. Foreign address. If you have a foreign address, enter the city name on the appropriate line. Don\u2019t enter any other information on that line, but also complete the spaces below that line",
+        "summary": "To amend your tax return, provide your taxpayer identification number (usually your SSN), date of birth, and current ZIP code. Indicate the calendar or fiscal year you are amending and list names and SSNs in the same order as the original return. If your address has changed, update it on Form 1040X, and follow specific instructions for P.O. boxes or foreign addresses.",
+        "timestamp": "2025-04-21T21:05:46.982985",
+        "token_count": 211
+    },
+    {
+        "chunk_id": 5,
+        "chunk_name": "ITIN application and tax designations.",
+        "filename": "ITIN_application_and_tax_designations._005.txt",
+        "original_chunk_text": ". Don\u2019t abbreviate the country name. Follow the country's practice for entering the postal code and the name of the province, county, or state. ITINs for aliens. If you don\u2019t have an SSN, but you already have an ITIN, enter it instead of an SSN. If you are a nonresident or resident alien and you don\u2019t have or aren\u2019t eligible to get an SSN, you must apply for an ITIN. It takes about 7 weeks to get an ITIN. For more information on ITINs, including application, expiration, and renewal, see Form W7 and its instructions. Presidential Election Campaign You can use Form 1040X to designate $3 to the Presidential Election Campaign Fund if you, or your spouse if filing jointly, didn't previously want $3 to go to this fund but now do. Checking a checkbox for the Presidential Election Campaign Fund will not change your tax or refund. This designation must be done within 201/2 months after the original due date for filing the return. A previous designation of $3 to the fund can\u2019t be changed",
+        "summary": "If you are a nonresident or resident alien without a Social Security Number, you must apply for an Individual Taxpayer Identification Number (ITIN), which takes about 7 weeks to obtain. You can designate $3 to the Presidential Election Campaign Fund using Form 1040X if you or your spouse previously opted out, but this designation must be made within 21 months of the original filing due date and cannot be changed once made.",
+        "timestamp": "2025-04-21T21:05:50.946563",
+        "token_count": 227
+    },
+    {
+        "chunk_id": 6,
+        "chunk_name": "Filing status and tax responsibility.",
+        "filename": "Filing_status_and_tax_responsibility._006.txt",
+        "original_chunk_text": ". Amended Return Filing Status Check the box that corresponds to your filing status on this return. You must check one box even if you are not changing your filing status. If this is a change from the filing status on your original return, the following information may apply to you. For information about marital status, see Pub. 501, Dependents, Standard Deduction, and Filing Information. In general, you can\u2019t change your filing status from a joint return to separate returns after the due date of the original return. Changing from a separate to a joint return. If you are married and file a separate return, you generally report only your own income, deductions, and credits. Generally, you are responsible only for the tax on your own income. If you file a joint return, both you and your spouse (or former spouse) are generally responsible for the tax and interest or penalties due on the return. This means that if one spouse doesn't pay the tax due, the other may have to",
+        "summary": "Check the appropriate box for your filing status on the amended return, even if it hasn't changed. You cannot switch from a joint return to separate returns after the original due date, and if you file jointly, both spouses are responsible for the tax owed.",
+        "timestamp": "2025-04-21T21:05:52.917395",
+        "token_count": 203
+    },
+    {
+        "chunk_id": 7,
+        "chunk_name": "Tax filing status changes and relief.",
+        "filename": "Tax_filing_status_changes_and_relief._007.txt",
+        "original_chunk_text": ". Or, if one spouse doesn't report the correct tax, both spouses may be responsible for any additional taxes assessed by the IRS. However, you may qualify for innocent spouse relief. For details about innocent spouse relief, see Form 8857, Request for Innocent Spouse Relief; or Pub. 971, Innocent Spouse Relief. If you are changing from a separate to a joint return, in Part II of Form 1040X, you should enter \u201cChanging the filing status\u201d as a reason for amending your Form 1040 or 1040SR. See You are changing from a separate to a joint return under Lines 1 Through 30\u2014Which Lines To Complete, later, for more details. Changing to head of household filing status. If the qualifying person is a child but not your dependent, enter the child\u2019s name in the space provided under the filing status checkboxes. In Part II of Form 1040X, you should state \u201cChanging the filing status\u201d as a reason for amending your Form 1040 or 1040SR. TIP CAUTION ! Instructions for Form 1040X (Rev",
+        "summary": "If one spouse fails to report the correct tax, both may be liable for additional taxes, but innocent spouse relief may be available. To amend a tax return when changing from separate to joint filing status, indicate \"Changing the filing status\" in Part II of Form 1040X. For head of household status, include the name of a qualifying child who is not a dependent in the designated area.",
+        "timestamp": "2025-04-21T21:05:55.729412",
+        "token_count": 233
+    },
+    {
+        "chunk_id": 8,
+        "chunk_name": "Filing status instructions for tax.",
+        "filename": "Filing_status_instructions_for_tax._008.txt",
+        "original_chunk_text": ". TIP CAUTION ! Instructions for Form 1040X (Rev. September 2024) 5 Generally, married people can\u2019t file as head of household. But, for an exception, see Pub. 501. Changing to married filing separately or qualifying surviv ing spouse filing status. If you check the box for married filing separately, enter your spouse's name in the space provided below the filing status checkboxes. If your spouse doesn't have and isn't required to have an SSN or ITIN, enter \u201cNRA\u201d next to their name in the entry space below the filing status checkboxes. If you check the box for qualifying surviving spouse, and the qualifying person is a child but not your dependent, enter the child's name in the space provided under the filing status checkboxes. Do not enter the child\u2019s name anywhere else on the form. In Part II of Form 1040X, you should state \u201cChanging the filing status\u201d as a reason for amending your Form 1040 or 1040SR",
+        "summary": "Married individuals generally cannot file as head of household, with exceptions noted in Pub. 501. When filing as married filing separately, include your spouse's name, and if they lack an SSN or ITIN, write \"NRA.\" For qualifying surviving spouse status, list the child's name only in the designated space and indicate \"Changing the filing status\" in Part II of Form 1040X.",
+        "timestamp": "2025-04-21T21:05:58.156628",
+        "token_count": 208
+    },
+    {
+        "chunk_id": 9,
+        "chunk_name": "Tax filing status updates.",
+        "filename": "Tax_filing_status_updates._009.txt",
+        "original_chunk_text": ". For 2022 and later, the filing status qualifying widow(er) is called qualifying surviving spouse. The rules for the filing status have not changed. The same rules that applied to qualifying widow(er) apply to qualifying surviving spouse. Lines 1 Through 30\u2014Which Lines To Complete Before looking at the instructions for specific lines, the following information may point you in the right direction for completing Form 1040X. You need information about income, deductions, etc. If you have questions such as what income is taxable or what expenses are deductible, the instructions for the form you are amending should help. Also use those instructions to find the method you should use to figure the correct tax. To get prior year forms, schedules, instructions, or publications, download them from IRS.gov/FormsPubs or call 8008293676. You are only changing information",
+        "summary": "For 2022 and later, the filing status \"qualifying widow(er)\" is now referred to as \"qualifying surviving spouse,\" but the rules remain unchanged. When completing Form 1040X, gather information about income and deductions, and refer to the specific form instructions for guidance on taxable income and deductible expenses. Prior year forms and instructions can be obtained from IRS.gov or by calling the IRS.",
+        "timestamp": "2025-04-21T21:06:00.816934",
+        "token_count": 175
+    },
+    {
+        "chunk_id": 10,
+        "chunk_name": "Amending tax forms instructions.",
+        "filename": "Amending_tax_forms_instructions._010.txt",
+        "original_chunk_text": ". You are only changing information. If you aren\u2019t changing any dollar amounts you originally reported, but are changing information and the rules in Resident and nonresident aliens, earlier, don\u2019t apply, do the following on your Form 1040X.  Enter the calendar year or fiscal year you are amending.  Complete name, current address, and SSN (or ITIN, if applicable).  Check a box in Presidential Election Campaign, if applicable.  Complete Part I\u2014Dependents, on page 2, if you are changing your dependent.  Complete Part II\u2014Explanation of Changes. You are changing from a separate to a joint return. If you and your spouse are changing from separate returns to a joint return, follow these steps. 1. Enter in column A the amounts from your return as originally filed or as previously adjusted (either by you or the IRS). 2",
+        "summary": "To amend your Form 1040X due to changes in information, enter the relevant calendar or fiscal year, your name, address, and SSN or ITIN. If changing from separate to a joint return, list the original amounts in column A and complete the necessary sections, including dependents and an explanation of changes.",
+        "timestamp": "2025-04-21T21:06:03.475393",
+        "token_count": 182
+    },
+    {
+        "chunk_id": 11,
+        "chunk_name": "Amending tax returns together.",
+        "filename": "Amending_tax_returns_together._011.txt",
+        "original_chunk_text": ". 2. To determine the amounts to enter in column B, combine the amounts from your spouse\u2019s return as originally filed (or as previously adjusted) with any other changes you or your spouse is making. If your spouse didn\u2019t file an original return, include your spouse\u2019s income, deductions, credits, other taxes, etc., in the amounts you enter in column B. 3. Read the instructions for column C to figure the amounts to enter in that column. 4. Both of you must sign and date Form 1040X. You are changing amounts on your original return or as previously adjusted by the IRS. Because Form 1040X can be used for so many purposes, it is sometimes difficult to know which part(s) of the form to fill out. Unless other specific instructions or rules apply to your return, such as those under CAUTION ! TIP Resident and nonresident aliens, earlier, applicable to paper filers, follow the rules below when completing your Form 1040X.  Always complete the top of page 1 through Amended return filing status",
+        "summary": "To complete column B on Form 1040X, combine your spouse's originally filed amounts with any changes you are making, including income and deductions if your spouse did not file. Follow the instructions for column C to determine the amounts for that column. Both parties must sign and date the form, ensuring the top of page 1 is completed through the amended return filing status.",
+        "timestamp": "2025-04-21T21:06:07.080411",
+        "token_count": 220
+    },
+    {
+        "chunk_id": 12,
+        "chunk_name": "Amendment instructions for tax returns.",
+        "filename": "Amendment_instructions_for_tax_returns._012.txt",
+        "original_chunk_text": ".  Check a box in Presidential Election Campaign, if applicable.  Complete the lines shown in the charts under Columns A Through C below according to what you are changing.  Complete Part II\u2014Explanation of Changes.  Sign and date the form. Columns A Through C Column A. Enter the amounts from your original return, unless any of the following apply. 1. You previously amended that return. 2. You were audited and changes were made to your originally filed return. 3. You received a notice from the IRS advising they made changes to your return. In any of these cases, column A needs to reflect the amount to which your originally filed return was adjusted. Example. If the IRS changed your taxable income by unreported income of $10,000, making your taxable income $100,000, then column A taxable income should be $100,000, not the originally filed amount. Column B. Enter the net increase or decrease for each line that you are changing. Explain each change in Part II",
+        "summary": "To amend your tax return, check the box for the Presidential Election Campaign if applicable, and fill out Columns A through C based on your changes. Column A should reflect the amounts from your original return unless it has been amended, audited, or adjusted by the IRS. Column B should indicate the net increase or decrease for each change, with explanations provided in Part II.",
+        "timestamp": "2025-04-21T21:06:09.672575",
+        "token_count": 207
+    },
+    {
+        "chunk_id": 13,
+        "chunk_name": "Amending tax return instructions.",
+        "filename": "Amending_tax_return_instructions._013.txt",
+        "original_chunk_text": ". Explain each change in Part II. If you need more space, attach a statement. Attach any schedule or form relating to the change. For example, attach Schedule A (Form 1040) if you are amending a 2022 Form 1040 to itemize deductions. If you are amending your return because you received another Form W2, attach a copy of the new Form W2. Don\u2019t attach items unless required to do so. Column C. To figure the amounts to enter in this column:  Add the increase in column B to the amount in column A, or  Subtract the decrease in column B from the amount in column A. For any item you don\u2019t change, enter the amount from column A in column C. Note. Show any negative numbers (losses or decreases) in column A, B, or C in parentheses. Example. You originally reported $21,000 as your adjusted gross income on your 2022 Form 1040. You received another Form W2 for $500 after you filed your return. Line 1 of Form 1040X should be completed as follows. Line 1 A. Original amount B. Net change C",
+        "summary": "In Part II, explain each change made to your tax return and attach relevant schedules or forms, such as a new Form W2 if applicable. To complete Column C, add or subtract the changes in Column B from Column A, and for unchanged items, carry over the amount from Column A. Negative numbers should be shown in parentheses.",
+        "timestamp": "2025-04-21T21:06:12.026727",
+        "token_count": 242
+    },
+    {
+        "chunk_id": 14,
+        "chunk_name": "Amending tax return instructions.",
+        "filename": "Amending_tax_return_instructions._014.txt",
+        "original_chunk_text": ". Line 1 A. Original amount B. Net change C. Correct amount 21,000 500 21,500 You would also report any additional federal income tax withheld on line 12 in column B. 6 Instructions for Form 1040X (Rev. September 2024) See the tax return for the year you are amending to find the corresponding lines on your original return. IF you are changing only... THEN complete Form 1040X... filing status lines 1\u201323. income lines 1\u201323. adjustments to income lines 1\u201323. itemized or standard deductions lines 1\u201323. qualified business income deduction lines 4b\u201323. tax before credits lines 5\u201323. nonrefundable credits lines 6\u201323. other taxes lines 6\u201323. payments and refundable credits lines 11\u201323. Income and Deductions Line 1\u2014Adjusted Gross Income Enter your adjusted gross income (AGI), which is the total of your income minus certain deductions (adjustments). Any change to the income or adjustments on the return you are amending will be reflected on this line",
+        "summary": "To amend your tax return, complete Form 1040X and refer to the corresponding lines on your original return for any changes in filing status, income, deductions, or credits. Line 1 requires you to enter your adjusted gross income (AGI), which is your total income minus specific deductions. Additionally, report any federal income tax withheld on line 12 in column B.",
+        "timestamp": "2025-04-21T21:06:14.699254",
+        "token_count": 234
+    },
+    {
+        "chunk_id": 15,
+        "chunk_name": "Impact of AGI changes on deductions.",
+        "filename": "Impact_of_AGI_changes_on_deductions._015.txt",
+        "original_chunk_text": ". A change you make to your AGI can cause other amounts to increase or decrease. For example, depending on the tax year, changing your AGI can change your:  Credit for child and dependent care expenses, child tax credit, education credits, retirement savings contributions credit, or premium tax credit;  Allowable charitable contributions deduction or the taxable amount of social security benefits; or  Total itemized deductions. If you change your AGI, refigure the items listed above (if applicable), and any other deduction or credit you are claiming that has a limit based on AGI. Complete and attach any applicable forms and schedules to support the amounts you refigured. Correcting your wages or other employee compensation. Attach a copy of all additional or corrected Forms W2 you received after you filed your original return",
+        "summary": "Changing your Adjusted Gross Income (AGI) can affect various tax credits and deductions, including the child tax credit, education credits, and charitable contributions. If you modify your AGI, you must refigure any applicable deductions or credits and attach the necessary forms and schedules. Additionally, if you correct your wages or compensation, include any corrected Forms W-2 received after filing your original return.",
+        "timestamp": "2025-04-21T21:06:17.447371",
+        "token_count": 163
+    },
+    {
+        "chunk_id": 16,
+        "chunk_name": "Amending IRA and deduction changes.",
+        "filename": "Amending_IRA_and_deduction_changes._016.txt",
+        "original_chunk_text": ". Also attach any additional or corrected Forms 1099R, Distributions From Pensions, Annuities, Retirement or ProfitSharing Plans, IRAs, Insurance Contracts, etc., that show federal income tax withheld. Changing your IRA deduction. In Part II of Form 1040X, enter \u201cIRA deduction\u201d and the amount of the increase or decrease. If changing from a deductible to a nondeductible IRA contribution, also complete and attach Form 8606, Nondeductible IRAs. Line 2\u2014Itemized Deductions or Standard Deduction Itemized deductions. If you itemized your deductions, enter in column A the total from your original Schedule A or your deduction as previously adjusted by the IRS. If you are now itemizing your deductions instead of using the standard deduction, or you have changed the amount of any deduction, or your AGI limitations have changed any deduction, attach a copy of the corrected Schedule A to this amended return. Standard deduction",
+        "summary": "Attach any corrected Forms 1099R showing federal income tax withheld when changing your IRA deduction. For adjustments, enter the changes in Part II of Form 1040X and complete Form 8606 if switching to a nondeductible IRA. If itemizing deductions, provide the total from your original Schedule A or any adjustments made, and attach a corrected Schedule A if necessary.",
+        "timestamp": "2025-04-21T21:06:20.206517",
+        "token_count": 196
+    },
+    {
+        "chunk_id": 17,
+        "chunk_name": "Tax deductions and adjustments guidelines.",
+        "filename": "Tax_deductions_and_adjustments_guidelines._017.txt",
+        "original_chunk_text": ". Standard deduction. If you are using the standard deduction, enter the amount for your filing status for the year you are amending. Remember that the standard deduction for all years can be increased for the age and/or blindness of the taxpayer(s). Charitable deduction. If you are taking the standard deduction in 2020 or 2021, you (or you and your spouse if filing jointly) may be able to claim a charitable deduction for certain cash contributions. For amended 2020 returns only, any adjustments to this deduction should be made to your AGI on line 1. For amended 2021 returns, any adjustments to this deduction should be made to your standard deduction amount on line 2. For adjustments to the cash charitable deduction for any year, refer to the tax return instructions for the year of the return you are amending to determine the limits on amounts of cash contributions you can claim for that year. See Pub",
+        "summary": "When amending your tax return, enter the standard deduction amount for your filing status, which may be increased for age or blindness. For 2020 and 2021, if using the standard deduction, you may claim a charitable deduction for certain cash contributions, with specific adjustments required for each year. Refer to the tax return instructions for limits on cash contributions for the year you are amending.",
+        "timestamp": "2025-04-21T21:06:23.126608",
+        "token_count": 188
+    },
+    {
+        "chunk_id": 18,
+        "chunk_name": "Amending tax return contributions guidance.",
+        "filename": "Amending_tax_return_contributions_guidance._018.txt",
+        "original_chunk_text": ". See Pub. 526 (for the year of the return you are amending) for the definition of what qualifies as a cash contribution and for information on the types of organizations that qualify. Also see Pub. 526 (for the year of the return you are amending) for information on whether this deduction is available on your amended return. If you had a net qualified disaster loss and you elect to increase your standard deduction by the amount of your net qualified disaster loss, use Schedule A to figure your standard deduction. Qualified disaster loss refers to losses arising from certain disasters. For more information, see the Instructions for Form 4684 and the Instructions for Schedule A filed with your original return for the tax year of the return you are amending. Line 4a\u2014Reserved for Future Use This line is reserved for future use. Do not enter an amount on this line. Line 4b\u2014Qualified Business Income Deduction See the instructions for the year of the form you are amending",
+        "summary": "Refer to Pub. 526 for definitions of cash contributions and qualifying organizations for your amended return. If you have a net qualified disaster loss and choose to increase your standard deduction, use Schedule A for calculations. Line 4a is reserved for future use, and instructions for the Qualified Business Income Deduction can be found in the relevant year\u2019s instructions.",
+        "timestamp": "2025-04-21T21:06:25.514973",
+        "token_count": 200
+    },
+    {
+        "chunk_id": 19,
+        "chunk_name": "Reporting taxable income adjustments accurately.",
+        "filename": "Reporting_taxable_income_adjustments_accurately._019.txt",
+        "original_chunk_text": ". Also see the instructions for Forms 8995 and 8995A for more information for figuring and reporting your qualified business income deduction. Line 5\u2014Taxable Income If the taxable income on the return you are amending is $0 and you have made changes on Form 1040X, line 1, 2, or 4b, enter on line 5, column A, the actual taxable income instead of $0. Enclose a negative amount in parentheses. The amounts in columns A and B can be less than zero. However, if the result for column C is zero or less, you must enter 0 in column C. Example. You showed $0 taxable income on your original return, even though you actually had a loss of $1,000. You later discovered you had additional income of $2,000. Your Form 1040X, line 5, would show ($1,000) in column A, $2,000 in column B, and $1,000 in column C. If you failed to take into account the loss you actually had on your original return, you would report $2,000 in column C and possibly overstate your tax liability",
+        "summary": "When amending your return with Form 1040X, if your original taxable income was reported as $0 but you had a loss, enter the actual taxable income in column A, enclosing negative amounts in parentheses. If the result in column C is zero or less, you must enter 0 in that column. Properly reporting losses and additional income is crucial to avoid overstating your tax liability.",
+        "timestamp": "2025-04-21T21:06:28.056896",
+        "token_count": 246
+    },
+    {
+        "chunk_id": 20,
+        "chunk_name": "Amending tax return instructions.",
+        "filename": "Amending_tax_return_instructions._020.txt",
+        "original_chunk_text": ". TIP Instructions for Form 1040X (Rev. September 2024) 7 Tax Liability Line 6\u2014Tax Include on line 6 the amount you reported on Schedule 2 (Form 1040), line 3, for the year you are amending. Figure the tax on your taxable income shown on line 5, column C. Generally, you will use the method(s) you used to figure the tax on your original return. However, you may need to change to a different method if, for example, you amend your return to include or change the amount of certain types of income, such as capital gains or qualified dividends. See the instructions for the income tax return you are amending to find the appropriate method(s), tax table, and worksheet, if necessary. Indicate the method(s) you used to figure the tax entered on line 6, as shown in the chart below. Attach the schedule or form(s), if any, that you used to figure your revised tax. Don\u2019t attach worksheets. IF you figured the corrected tax using... THEN enter on the dotted line on line 6... Tax Table Table",
+        "summary": "To complete line 6 of Form 1040X, report the tax amount from Schedule 2 (Form 1040), line 3, for the year being amended, based on the taxable income from line 5, column C. You may need to adjust your tax calculation method if you are changing income types, such as capital gains or qualified dividends, and should indicate the method used. Attach any relevant schedules or forms used to determine the revised tax, but do not attach worksheets.",
+        "timestamp": "2025-04-21T21:06:31.040101",
+        "token_count": 233
+    },
+    {
+        "chunk_id": 21,
+        "chunk_name": "Tax forms and credit adjustments.",
+        "filename": "Tax_forms_and_credit_adjustments._021.txt",
+        "original_chunk_text": ". Tax Table Table. Tax Computation Worksheet TCW. Schedule D Tax Worksheet Sch D. Schedule J (Form 1040) Sch J. Qualified Dividends and Capital Gain Tax Worksheet QDCGTW. Foreign Earned Income Tax Worksheet FEITW. Form 8615, Tax for Certain Children Who Have Unearned Income F8615. Any changes you made to Form 1040X, lines 1 through 6, may affect the amount of or cause you to owe alternative minimum tax. See the instructions for the form and year you are amending. Line 7\u2014Nonrefundable Credits Enter your total nonrefundable credits in column A. Nonrefundable credits are those that reduce your tax, but any excess isn\u2019t refunded to you. If you made any changes to Form 1040X, lines 1 through 6, be sure to refigure your original credits. Attach the appropriate forms for the credits you are adding or changing. Credit for qualifying children and other dependents",
+        "summary": "The text outlines various tax worksheets and forms related to tax computation and credits, including the Tax Computation Worksheet, Schedule D, and Form 8615 for children with unearned income. It emphasizes that changes to Form 1040X can impact alternative minimum tax and requires refiguring nonrefundable credits if adjustments are made. Taxpayers must attach the appropriate forms for any added or modified credits, such as those for qualifying children and dependents.",
+        "timestamp": "2025-04-21T21:06:33.744949",
+        "token_count": 205
+    },
+    {
+        "chunk_id": 22,
+        "chunk_name": "Amending tax return requirements.",
+        "filename": "Amending_tax_return_requirements._022.txt",
+        "original_chunk_text": ". If you are amending a return with a retroactive claim of the child tax credit, you must have an SSN valid for employment issued for the child before the due date for filing the return you are amending, including extensions. If you are amending a return with a retroactive claim of the credit for other dependents, the dependent you claim must have been issued an SSN, ITIN, or adoption taxpayer identification number (ATIN) on or before the due date for filing the return you are amending, including extensions. Your child tax credit may be refundable. For additional information, see Schedule 8812 (Form 1040) and its instructions for the year of the tax return you are amending. If CAUTION ! CAUTION ! amending a 2019 or 2020 return, also see Pub. 972 for 2019 or 2020, respectively. Line 9\u2014Reserved for Future Use This line is reserved for future use. Do not enter an amount on this line",
+        "summary": "To amend a return with a retroactive claim for the child tax credit, the child must have a valid SSN issued before the return's due date. For claims regarding other dependents, an SSN, ITIN, or ATIN must be issued by the same deadline. Refer to Schedule 8812 and Pub. 972 for additional guidance on amending 2019 or 2020 returns.",
+        "timestamp": "2025-04-21T21:06:37.062533",
+        "token_count": 209
+    },
+    {
+        "chunk_id": 23,
+        "chunk_name": "Amending tax return instructions.",
+        "filename": "Amending_tax_return_instructions._023.txt",
+        "original_chunk_text": ". Do not enter an amount on this line. Line 10\u2014Other Taxes Enter in column A the amount you reported on the line for total other taxes from Schedule 2 (Form 1040) for the year you are amending. If you made any changes to Form 1040X, lines 1 through 6, you may need to refigure other taxes that were included in the same section on your original return. Payments Line 12\u2014Withholding In column A, enter from the return you are amending any federal income tax withheld and any excess social security and tier 1 RRTA tax withheld (SS/RRTA). If you are changing your withholding or excess SS/RRTA, attach to the front of Form 1040X a copy of all additional or corrected Forms W2 you received after you filed your original return. Also attach additional or corrected Forms 1099R that show any federal income tax withheld. Line 13\u2014Estimated Tax Payments In column A, enter the estimated tax payments you claimed on your original return. If you filed Form 1040C, U.S",
+        "summary": "On Line 10 of Form 1040X, report the total other taxes from Schedule 2 for the year being amended. For Line 12, enter any federal income tax withheld and excess social security or tier 1 RRTA tax withheld, attaching any corrected Forms W-2 or 1099-R if applicable. Line 13 requires you to enter the estimated tax payments claimed on your original return.",
+        "timestamp": "2025-04-21T21:06:40.238971",
+        "token_count": 226
+    },
+    {
+        "chunk_id": 24,
+        "chunk_name": "Amending tax return instructions.",
+        "filename": "Amending_tax_return_instructions._024.txt",
+        "original_chunk_text": ". If you filed Form 1040C, U.S. Departing Alien Income Tax Return, include on this line the amount you paid as the balance due with that return. Also include any of your prior year's overpayment that you elected to apply to estimated tax payments for the year you are amending. Line 14\u2014Earned Income Credit (EIC) Enter the amount you reported on the line for the EIC on Form 1040 or 1040SR for the year you are amending in column A. If you are amending your return to claim the EIC and you have a qualifying child, attach Schedule EIC (Form 1040). If you changed the amount on line 1 or line 5, the amount of any EIC you claimed on your original return may change. For more information regarding the EIC, see Pub. 596 for the year you are amending. If you are amending your EIC based on a nontaxable combat pay election, enter \u201cnontaxable combat pay\u201d and the amount in Part II of Form 1040X. SSN required",
+        "summary": "When amending your tax return using Form 1040C, include the balance due and any prior year's overpayment applied to estimated taxes. Report the Earned Income Credit (EIC) from your original Form 1040 or 1040SR, and attach Schedule EIC if claiming the EIC with a qualifying child. If changes affect the EIC amount, refer to Pub. 596 for guidance and note any nontaxable combat pay elections on Form 1040X.",
+        "timestamp": "2025-04-21T21:06:43.490565",
+        "token_count": 231
+    },
+    {
+        "chunk_id": 25,
+        "chunk_name": "SSN requirements for tax credits.",
+        "filename": "SSN_requirements_for_tax_credits._025.txt",
+        "original_chunk_text": ". SSN required. If you didn't have an SSN on or before the due date of your return for the tax year being amended (including extensions), you can't claim the EIC on your amended return. Also, if a child didn't have an SSN on or before the due date of your return for the tax year being amended (including extensions), you can't count that child as a qualifying child in figuring the amount of the EIC on your amended return. Line 15\u2014Refundable Credits A refundable credit can give you a refund for any part of a credit that is more than your total tax. Enter, in column A, the total of the refundable credits from Schedule 8812 (Form 1040), Form 8 Instructions for Form 1040X (Rev. September 2024) 8863, the recovery rebate (as applicable), and Schedule 3 (Form 1040) for the year you are amending. Check as applicable the boxes for Schedule 8812 (Form 1040), and Forms 2439, 4136, 8885, 8863, and 8962",
+        "summary": "To claim the Earned Income Credit (EIC) on an amended return, both the taxpayer and any qualifying child must have a Social Security Number (SSN by the original return's due date. Refundable credits can provide a refund exceeding total tax, and taxpayers should report these credits from various forms on Line 15 of the amended return.",
+        "timestamp": "2025-04-21T21:06:45.705256",
+        "token_count": 237
+    },
+    {
+        "chunk_id": 26,
+        "chunk_name": "Amending tax returns for credits.",
+        "filename": "Amending_tax_returns_for_credits._026.txt",
+        "original_chunk_text": ". If you are amending your return to claim or change a refundable credit, attach the appropriate schedule(s) or form(s). In addition, in the blank area after \u201cother (specify),\u201d list all of your refundable credits for which there is not a checkbox. Include the form number for the credit if there is one. SSN required. If you are amending a return with a retroactive claim of the refundable child tax credit or the additional child tax credit, you must have an SSN valid for employment issued for the child before the due date for filing the return, including extensions. For additional information, see Schedule 8812 (Form 1040) and its instructions for the year of the tax return you are amending. If amending a 2019 or 2020 return, also see Pub. 972 for 2019 or 2020, respectively. Line 16\u2014Amount Paid With Extension or Tax Return On this line, enter the total of the following amounts",
+        "summary": "When amending a return to claim or change a refundable credit, attach the necessary schedules or forms and list any refundable credits without checkboxes, including their form numbers. For retroactive claims of the refundable child tax credit, a valid SSN for the child is required before the return's due date. Refer to Schedule 8812 and relevant publications for additional guidance.",
+        "timestamp": "2025-04-21T21:06:48.367149",
+        "token_count": 206
+    },
+    {
+        "chunk_id": 27,
+        "chunk_name": "Tax payment reporting guidelines.",
+        "filename": "Tax_payment_reporting_guidelines._027.txt",
+        "original_chunk_text": ".  Any amount paid with your request for an extension on Form 4868, Application for Automatic Extension of Time To File U.S. Individual Income Tax Return; or Form 2350, Application for Extension of Time To File U.S. Income Tax Return. Also include any amount paid electronically in connection with an extension of time to file, but don\u2019t include the convenience fee you were charged.  The amount you paid with your original return, regardless of method. Also include any additional payments you made after it was filed. However, don\u2019t include payments of interest or penalties, or the convenience fee you were charged. Example. You are filing Form 1040X to amend your 2022 tax return. You sent a check for $1,500 with your original return, reflecting a payment of $1,400 in taxes and a $100 estimated tax penalty. When completing Form 1040X, enter $1,400 on line 16 (the check sent with the original return minus the $100 penalty)",
+        "summary": "When filing Form 1040X to amend a tax return, include any payments made with extension requests (Forms 4868 or 2350) and the original return, excluding convenience fees, interest, or penalties. For example, if you paid $1,500 with your original return, but it included a $100 penalty, report only the $1,400 in taxes on Form 1040X.",
+        "timestamp": "2025-04-21T21:06:51.563628",
+        "token_count": 207
+    },
+    {
+        "chunk_id": 28,
+        "chunk_name": "Amending tax payments and refunds.",
+        "filename": "Amending_tax_payments_and_refunds._028.txt",
+        "original_chunk_text": ". Line 17\u2014Total Payments Include any amounts from Form 8689, Allocation of Individual Income Tax to the U.S. Virgin Islands, that are being included in the total payments line on your Form 1040 or 1040SR. For additional information, see Form 8689 for the year of the tax return you are amending. Refund or Amount You Owe The purpose of this section is to figure the additional tax you owe or excess amount you have paid (overpayment). All of your payments (for the tax year you are amending) received up to the date of this amended return are taken into account, as well as any overpayment on your original return or after adjustment by the IRS. It is as if you were using the new information to complete your original return. If the results show a larger overpayment than before, the difference between the two becomes your new overpayment. You can choose to receive the refund or apply it to your estimated tax for the following year",
+        "summary": "Total payments on Form 1040 or 1040SR should include amounts from Form 8689 related to the U.S. Virgin Islands. This section calculates any additional tax owed or overpayment based on all payments made for the tax year being amended. If the amended return shows a larger overpayment, the difference can be refunded or applied to next year's estimated tax.",
+        "timestamp": "2025-04-21T21:06:54.273834",
+        "token_count": 202
+    },
+    {
+        "chunk_id": 29,
+        "chunk_name": "IRS tax refund and payments.",
+        "filename": "IRS_tax_refund_and_payments._029.txt",
+        "original_chunk_text": ". In either case, it can be used by the IRS to pay other federal or state debts that still exist. If the results show that you owe, it is because you don\u2019t have enough additional withholding or because filing your original return with the information you have now would have resulted in a smaller overpayment or a balance due. Line 18\u2014Overpayment Enter the overpayment from your original return. If your original return was changed by the IRS and the result was an additional overpayment of tax, also include that amount on line 18. Don\u2019t include interest you received on any refund. Any additional refund you are entitled to on Form 1040X will be sent separately from any refund you haven\u2019t yet received from your original return. Line 19\u2014Amount Available To Pay Additional Tax If line 18 is larger than line 17, line 19 will be negative. You will owe additional tax. To figure the amount owed, treat the amount on line 19 as positive and add it to the amount on line 11. Enter the result on line 20",
+        "summary": "The IRS can use overpayments to settle other federal or state debts. If you owe additional tax, it may be due to insufficient withholding or changes in your original return. When completing Form 1040X, report any overpayment from your original return on line 18, and if it exceeds the amount owed, line 19 will indicate a negative balance, meaning you owe additional tax.",
+        "timestamp": "2025-04-21T21:06:56.669880",
+        "token_count": 217
+    },
+    {
+        "chunk_id": 30,
+        "chunk_name": "Tax refund and payment instructions.",
+        "filename": "Tax_refund_and_payment_instructions._030.txt",
+        "original_chunk_text": ". Enter the result on line 20. Line 20\u2014Amount You Owe See the Amount you owe section in your income tax return instructions or go to IRS.gov/Payments for payment options. If you elected to apply any part of an overpayment on your original return to your next year's estimated tax, you can\u2019t reverse that election on your amended return. Line 22\u2014Overpayment Received as Refund The refund amount on line 22 will be sent separately from any refund you claimed on your original return (see Line 18, earlier). We will figure any interest and include it in your refund. You will receive a check for any refund due to you. A refund on a paperfiled amended return can\u2019t be deposited directly to your bank account. If you owe pastdue federal or state debts, all or part of your overpayment will be used to pay the pastdue amounts. You will receive a notice if any of your overpayment has been applied to pastdue amounts",
+        "summary": "Enter the amount you owe on line 20, and refer to the tax return instructions or IRS.gov/Payments for payment options. If you applied an overpayment to next year's estimated tax, you cannot reverse that decision on an amended return. Refunds for amended returns will be sent separately, cannot be directly deposited, and may be applied to any past-due debts.",
+        "timestamp": "2025-04-21T21:06:59.528503",
+        "token_count": 201
+    },
+    {
+        "chunk_id": 31,
+        "chunk_name": "Overpayment application and dependents.",
+        "filename": "Overpayment_application_and_dependents._031.txt",
+        "original_chunk_text": ". Line 23\u2014Overpayment Applied to Estimated Tax Enter on line 23 the amount, if any, from line 21 you want applied to your estimated tax for next year. Also enter that tax year in the space provided. No interest will be paid on this amount. If you owe pastdue federal or state debts, all or part of your overpayment will be used to pay the pastdue amounts. You will receive a notice if any of your overpayment has been applied to pastdue amounts, so you will know how much was applied to your estimated tax. You can\u2019t change your election to apply part or all of the overpayment on line 21 to next year's estimated tax. Part I\u2014Dependents Lines 24, 26, 28, and 29\u2014Reserved for Future Use These lines are reserved for future use. Do not enter an amount on these lines. Line 30\u2014Dependents List all dependents claimed on this amended return. This includes: CAUTION ! CAUTION ! Instructions for Form 1040X (Rev",
+        "summary": "Enter any desired overpayment from line 21 to be applied to next year's estimated tax on line 23, noting that no interest will be paid on this amount. If you owe past-due federal or state debts, your overpayment may be used to settle those debts, and you will receive a notice detailing the application. Lines 24, 26, 28, and 29 are reserved for future use, while line 30 is for listing all dependents claimed on the amended return.",
+        "timestamp": "2025-04-21T21:07:05.299102",
+        "token_count": 217
+    },
+    {
+        "chunk_id": 32,
+        "chunk_name": "Amending tax return explanations needed.",
+        "filename": "Amending_tax_return_explanations_needed._032.txt",
+        "original_chunk_text": ". September 2024) 9  Dependents claimed on your original return who are still being claimed on this return, and  Dependents not claimed on your original return who are being added to this return. See Dependents, in the instructions for the tax return for the year you are amending, for more information. Part II\u2014Explanation of Changes The IRS needs to know why you are filing Form 1040X. For example, you:  Received another Form W2 after you filed your return,  Forgot to claim the child tax credit or the credit for other dependents,  Changed your filing status from qualifying surviving spouse (or, if amending a 2021 or earlier return, qualifying widow(er)) to head of household,  Are carrying a credit to an earlier year, or  Are claiming a tax benefit from recently enacted legislation for disaster relief",
+        "summary": "When filing Form 1040X to amend your tax return, you must indicate any dependents being claimed and provide an explanation for the changes. Common reasons for filing include receiving additional Forms W-2, forgetting to claim credits, changing filing status, or claiming benefits from new legislation.",
+        "timestamp": "2025-04-21T21:07:08.574986",
+        "token_count": 176
+    },
+    {
+        "chunk_id": 33,
+        "chunk_name": "Direct deposit for tax refunds.",
+        "filename": "Direct_deposit_for_tax_refunds._033.txt",
+        "original_chunk_text": ". Part III\u2014Direct Deposit (for EFiled Form 1040X Only) Beginning in February 2023, if you electronically file a Form 1040X for tax year 2021 or later, you may request your refund be directly deposited into your checking or savings account. If you want us to directly deposit the amount shown on line 22 to your checking or savings account at a bank or other financial institution (such as a credit union) in the United States:  Complete lines 31 through 33 on Form 1040X (if you want your refund deposited to only one account); or  Check the box on Form 1040, 1040SR, or 1040NR, line 35a, and attach Form 8888, Allocation of Refund, if you want to split the direct deposit into more than one account. The account must be in your name. Don't request a deposit of your refund to an account, such as your tax return preparer's account, that isn't in your name",
+        "summary": "Beginning in February 2023, taxpayers filing Form 1040X electronically for tax year 2021 or later can request direct deposit of their refund into a personal checking or savings account. To do this, complete lines 31-33 on Form 1040X for a single account or use Form 8888 to split the deposit into multiple accounts. The account must be in the taxpayer's name, and deposits cannot be made to accounts not owned by the taxpayer.",
+        "timestamp": "2025-04-21T21:07:11.636689",
+        "token_count": 212
+    },
+    {
+        "chunk_id": 34,
+        "chunk_name": "Refund procedures and signing requirements.",
+        "filename": "Refund_procedures_and_signing_requirements._034.txt",
+        "original_chunk_text": ". For example, although you may owe your tax return preparer a fee for preparing your return, you should not have any part of your refund deposited into the preparer's account to pay the fee. A direct deposit will be issued using the banking information on Form 1040X. Do not complete lines 35b through 35d on Form 1040, 1040SR, or 1040NR. If an account issue prevents a direct deposit, a refund will be issued by paper check to the most recent address. Sign Your Return Form 1040X isn't considered a valid return unless you sign it in accordance with the requirements in these instructions. If you are filing an amended joint return, your spouse must also sign. If your spouse can't sign the return, see Pub. 501. Be sure to date your return and enter your occupation(s). If you have someone prepare your amended return, you are still responsible for the correctness of the amended return",
+        "summary": "Do not have any part of your tax refund deposited into your preparer's account; refunds will be issued based on the banking information on Form 1040X. Ensure that Form 1040X is signed by you and your spouse if filing jointly, and include your occupation and date. You remain responsible for the accuracy of the amended return, even if someone else prepares it.",
+        "timestamp": "2025-04-21T21:07:13.932620",
+        "token_count": 198
+    },
+    {
+        "chunk_id": 35,
+        "chunk_name": "Power of attorney for amended returns.",
+        "filename": "Power_of_attorney_for_amended_returns._035.txt",
+        "original_chunk_text": ". If your amended return is signed by a representative for you, you must have a power of attorney attached that specifically authorizes the representative to sign your amended return. To do this, you can use Form 2848. If you are filing an amended joint return as a surviving spouse, see Death of a Taxpayer in the instructions for your original tax return. Identity Protection Personal Identification Number (IP PIN). If you received an IP PIN from the IRS, enter it in the IP PIN spaces provided next to the box for your occupation on your Form 1040X. You must correctly enter all six numbers of your IP PIN. If you didn't receive an IP PIN, leave these spaces blank. All taxpayers are now eligible for an IP PIN. For more information, see Pub. 5477. To apply for an IP PIN, go to IRS.gov/IPPIN and use the Get an IP PIN tool",
+        "summary": "To authorize a representative to sign your amended return, attach a power of attorney using Form 2848. If you received an Identity Protection Personal Identification Number (IP PIN) from the IRS, include it on Form 1040X; otherwise, leave the spaces blank. All taxpayers can apply for an IP PIN at IRS.gov/IPPIN.",
+        "timestamp": "2025-04-21T21:07:16.384080",
+        "token_count": 184
+    },
+    {
+        "chunk_id": 36,
+        "chunk_name": "IP PIN filing instructions for taxes.",
+        "filename": "IP_PIN_filing_instructions_for_taxes._036.txt",
+        "original_chunk_text": ". If you are filing an amended joint return and each taxpayer will receive an IP PIN, enter your IP PIN in the space provided next to the box for your occupation on your Form 1040X. Enter the spouse's IP PIN in the space provided next to the box for the spouse's occupation. If you need more information, including how to retrieve your IP PIN online, go to IRS.gov/IPPIN. If you are unable to retrieve your IP PIN online, call 8009084490. New IP PINs are generated every year. They will generally be sent out by midJanuary. Use this IP PIN on any Form 1040X you file. Requirements for a Paper Return You must handwrite your signature on your return if you file it on paper. Digital, electronic, or typedfont signatures are not valid signatures for Forms 1040X filed on paper. Requirements for an Electronic Return To file your return electronically, you must sign the return electronically using a personal identification number (PIN) and provide the information described below",
+        "summary": "When filing an amended joint return (Form 1040X), enter each taxpayer's IP PIN next to their occupation. For more information on retrieving your IP PIN, visit IRS.gov/IPPIN or call 800-908-4490. Paper returns require handwritten signatures, while electronic returns need an electronic signature using a personal identification number (PIN).",
+        "timestamp": "2025-04-21T21:07:19.003753",
+        "token_count": 209
+    },
+    {
+        "chunk_id": 37,
+        "chunk_name": "Filing PIN requirements for taxes.",
+        "filename": "Filing_PIN_requirements_for_taxes._037.txt",
+        "original_chunk_text": ". If you are filing online using software, you must use a SelfSelect PIN. If you are filing electronically using a tax practitioner, you can use a SelfSelect PIN or a Practitioner PIN. If we issued you an IP PIN for the year, all six digits of your IP PIN must appear in the IP PIN spaces provided next to the space for your occupation for your electronic signature to be complete. Do not use an IP PIN from a prior year, even if amending a return filed in a prior year. Failure to include an issued IP PIN on the electronic return will result in an invalid signature and a rejected return. If you are filing a joint return and both taxpayers were issued IP PINs, enter both IP PINs in the spaces provided. SelfSelect PIN. The SelfSelect PIN method allows you to create your own PIN. If you are married filing jointly, you and your spouse will each need to create a PIN and enter these PINs as your electronic signatures. A PIN is any combination of five digits you choose except five zeros",
+        "summary": "When filing online, a SelfSelect PIN is required for individual filers, while a Practitioner PIN can be used if filing with a tax practitioner. If you have an IP PIN for the year, it must be included in the designated space for your electronic signature; using an old IP PIN will result in a rejected return. For joint returns, both taxpayers must enter their respective IP PINs, and each spouse must create their own SelfSelect PIN if filing jointly.",
+        "timestamp": "2025-04-21T21:07:22.257716",
+        "token_count": 210
+    },
+    {
+        "chunk_id": 38,
+        "chunk_name": "Electronic return validation requirements.",
+        "filename": "Electronic_return_validation_requirements._038.txt",
+        "original_chunk_text": ". If you use a PIN, there is nothing to sign and nothing to mail\u2014not even your Forms W2. Your electronic return is considered a validly signed return only when it includes your PIN; last name; date of birth; IP PIN, if applicable; and AGI from your originally filed prior year federal income tax return, if applicable. If you're filing jointly, your electronic return must also include your spouse's PIN; last name; date of birth; IP PIN, if applicable; and AGI, if applicable, in order to be considered validly signed. Don't use your AGI from an amended return (Form 1040X) or a math error correction made by the IRS. Your AGI from your prior year return is generally the amount shown on the federal income tax return you filed last year that was due last year. For example, when filing an amended return in 2023, enter the amount from your 2021 Form 1040 ,1040SR, or 1040NR, line 11, that you filed in 2022",
+        "summary": "To validate your electronic tax return using a PIN, you must include your last name, date of birth, and AGI from your prior year's return, along with your PIN. If filing jointly, your spouse's information is also required. Do not use AGI from amended returns or IRS corrections; use the amount from your last filed return.",
+        "timestamp": "2025-04-21T21:07:24.903907",
+        "token_count": 219
+    },
+    {
+        "chunk_id": 39,
+        "chunk_name": "Prior year tax return verification.",
+        "filename": "Prior_year_tax_return_verification._039.txt",
+        "original_chunk_text": ". If you didn't file a prior year income tax return, or we have not yet processed or only recently processed your prior year tax return, enter \u201c$0\u201d as the prior year AGI verification. If you don't have your prior year income tax return, call the IRS at 8009089946 to get a free transcript of your return or go to IRS.gov/Transcript. If you filed electronically last year, you, and your spouse if filing jointly, may use your prior year PIN to verify your identity instead of your prior year AGI. The prior year PIN is the fivedigit PIN you used to electronically sign your prior year return. Practitioner PIN. The Practitioner PIN method allows you to authorize your tax practitioner to enter or generate your PIN. TIP CAUTION ! 10 Instructions for Form 1040X (Rev. September 2024)",
+        "summary": "If you haven't filed or your prior year tax return is not processed, enter \u201c$0\u201d for prior year AGI verification. To obtain a free transcript of your return, call the IRS at 800-908-9946 or visit IRS.gov/Transcript. If you filed electronically, you can use your prior year PIN to verify your identity.",
+        "timestamp": "2025-04-21T21:07:27.486886",
+        "token_count": 179
+    }
+]

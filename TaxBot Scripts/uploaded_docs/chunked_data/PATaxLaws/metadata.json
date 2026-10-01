@@ -1,0 +1,65 @@
+[
+    {
+        "chunk_id": 1,
+        "chunk_name": "Pennsylvania personal income taxation rules.",
+        "filename": "Pennsylvania_personal_income_taxation_rules._001.txt",
+        "original_chunk_text": "PA Tax Laws (PA Personal Income Tax)  Every Resident, partyear resident",
+        "summary": "Pennsylvania's Personal Income Tax applies to all residents and part-year residents. Taxpayers are required to report their income and pay taxes accordingly. The tax rate is a flat rate applied to taxable income.",
+        "timestamp": "2025-04-21T21:19:51.844554",
+        "token_count": 16
+    },
+    {
+        "chunk_id": 2,
+        "chunk_name": "Pennsylvania Income Tax Residency Rules",
+        "filename": "Pennsylvania_Income_Tax_Residency_Rules_002.txt",
+        "original_chunk_text": ", or nonresident must file PA Income Tax Return (PA40)    When income is $1 or more in tax  Residency Status  PA Resident is either domiciled in PA or domicile in another state    PA Domicile (personal tax income)  o Permanent Housing only  o Actual physical presence in the state of PA    Statutory Residency (personal tax income)  o Lives outside of PA but still considered a resident   \u25aa  Spent more than 183 days of the taxable year in PA    PA Nonresident (personal tax income)  o Lives in another state  \u25aa  Spends no more than 30 days of a taxable year in PA    Military/Foreign Service  o Does not require a new domicile     College Student  o Same domicile as parents  \u25aa  Legal adult does not separate a child from parent\u2019s domicile  \u25aa  However could apply for a separate if needed    Minor Child  o Same as parents    Tax Year  o Period of 12 consecutive months beginning Jan 1st \u2013 Dec 31st    Dual Residency (NESTOA Agreement)  o North Eastern States Tax Officials Association Cooperative Agreement  \u25aa  Connecticut  \u25aa  Delaware  \u25aa  District of Columbia  \u25aa  Maine  \u25aa  Maryland  \u25aa  Massachusetts  \u25aa  New Hampshire  \u25aa  New Jersey  \u25aa  New York  \u25aa  Rhode Island  \u25aa  Vermont  o Addresses the taxation of dual residents  \u25aa  Income of intangible assets",
+        "summary": "Individuals must file a PA Income Tax Return (PA40) if they earn $1 or more, with residency status determining tax obligations. PA residents are those domiciled in PA or who spend over 183 days in the state, while nonresidents spend no more than 30 days in PA. Special considerations apply for military personnel, college students, and minors regarding domicile status.",
+        "timestamp": "2025-04-21T21:19:54.652671",
+        "token_count": 314
+    },
+    {
+        "chunk_id": 3,
+        "chunk_name": "Taxation based on residency status.",
+        "filename": "Taxation_based_on_residency_status._003.txt",
+        "original_chunk_text": ", the state of domicile gets to tax the income  \u25aa  Nonsourced income, state of statutory residence must give resident credit  \u25aa  Earned income is source outside state of domicile and state of statutory,  state of domicile gets to tax the income  \u25aa  Income of sourced imposes an income tax, then state of domicile would give  resident credit    Filing Status  o Single, File Status \u201cS\u201d  \u25aa  If unmarried on the last day of the tax year, could include divorced  o Married, File Status \u201cJ\u201d  \u25aa  Even if lived apart, must file jointly   \u25aa  Surviving spouse may file joint return with the deceased spouse  \u25aa  Both spouses elect to have same residency period  \u25aa  Neither spouse individually claimed the PA KOZ/KOEZ Credit    Typically abandoned, unused sites in the state  o Married, Filing Separate Returns \u201cM\u201d  \u25aa  Spouses that file separate returns instead of joint return  \u25aa  One spouse is a resident, other is nonresident  \u25aa  Spouse died before last day of the tax year",
+        "summary": "The state of domicile taxes income earned by residents, while non-sourced income requires a resident credit from the state of statutory residence. Filing statuses include Single (unmarried or divorced), Married Filing Jointly (even if living apart), and Married Filing Separately (for spouses with different residency statuses). Surviving spouses can file jointly with deceased spouses, and specific residency conditions apply for tax credits.",
+        "timestamp": "2025-04-21T21:19:57.327310",
+        "token_count": 232
+    },
+    {
+        "chunk_id": 4,
+        "chunk_name": "Tax filing rules and statuses.",
+        "filename": "Tax_filing_rules_and_statuses._004.txt",
+        "original_chunk_text": ", did not give permission to file  joint return  \u25aa  One spouse\u2019s taxable year starts and ends on a different date  o Deceased \u201cD\u201d  \u25aa  Someone filing for a deceased individual  o Final Return \u201cF\u201d  \u25aa  A person who lived in PA but permanently moved from PA     May also file for a deceased taxpayer  o Head of Household (HOH)  \u25aa  File for a lower tax rate and higher standard deduction than filing status for  single  \u25aa  Must be unmarried, must maintain a household for more than half of a tax  year  o 8 Classes of Income  \u25aa  Compensation  \u25aa  Interest  \u25aa  Dividends  \u25aa  Net Profits from an business  \u25aa  Net Gains from a property  \u25aa  Net Gains from royalties or copyright  \u25aa  Income from trust/estates  \u25aa  Gambling and Lottery Winnings  o When to file  \u25aa  April 15, 2025  \u25aa  PA gives a 6th extension to file return (Oct 15, 2025)  o Penalties and Interest  \u25aa  Each month that it\u2019s late",
+        "summary": "A joint tax return cannot be filed without permission from both spouses, and specific filing statuses apply for deceased individuals and those who qualify as Head of Household. There are eight classes of income, including compensation, interest, dividends, and gambling winnings. Tax returns are due by April 15, 2025, with a possible extension to October 15, 2025, and penalties accrue for late filings.",
+        "timestamp": "2025-04-21T21:20:00.145461",
+        "token_count": 252
+    },
+    {
+        "chunk_id": 5,
+        "chunk_name": "Tax rates and exemptions in Pennsylvania.",
+        "filename": "Tax_rates_and_exemptions_in_Pennsylvania._005.txt",
+        "original_chunk_text": ", 5% of unpaid tax will be imposed    Unless if there\u2019s a reasonable cause for late filing  \u25aa  Max is 25% of latepaid tax  https://www.pa.gov/agencies/revenue/formsandpublications/papersonalincometax guide/briefoverviewandfilingrequirements.html     Income Tax  o 3.07% flat individual income  o Can vary depending on if living in Philadelphia, that\u2019s the case it\u2019s 3.75%    Investment Income  o Flat rate of 3.07%    Property Tax  o 1.26% home assessed value  \u25aa  Varies within the state though largely 1.26%    Corporate Income Tax Rate  o 7.99% flat rate    Sales Tax  o 6.34% Average combined state and local   \u25aa  Philadelphia and Allegheny County, Pittsburgh is 2%    Military Benefits Taxed  o Exempt from Tax    Tax breaks on older PA Residents  o Property Tax/Rent Rebate Program for rebates of residents 65 and older  o Income limit wise to $46,520, tied to cost of living   \u25aa  If Income is $8270 or less, you received $1,000 Tax break   \u25aa  If income is $8271 to 15510",
+        "summary": "Pennsylvania imposes a 5% penalty on unpaid taxes, with a maximum of 25% for late payments, unless there is a reasonable cause. The state has a flat individual income tax rate of 3.07%, which is 3.75% for Philadelphia residents, and a corporate income tax rate of 7.99%. Property tax is generally 1.26% of assessed home value, and there are tax breaks for residents aged 65 and older through the Property Tax/R",
+        "timestamp": "2025-04-21T21:20:03.720836",
+        "token_count": 273
+    },
+    {
+        "chunk_id": 6,
+        "chunk_name": "Tax rates and benefits in Pennsylvania.",
+        "filename": "Tax_rates_and_benefits_in_Pennsylvania._006.txt",
+        "original_chunk_text": ", you\u2019ll receive $770  \u25aa  If Income is $15511 to $18610, you\u2019ll receive $460  \u25aa  If Income is $18611 to $46520, you\u2019ll receive $380    Sales Tax  o States levies at 6% in many consumers good  \u25aa  State tax on motor fuels is 57.6 cent per gallon  o Alcohol, PA is a control state meaning that the state directly controls distribution  and sales   \u25aa  State sales is at 18% and additional 6% sales tax  o Lottery is taxed at 3.07 percent individual income tax rate  \u25aa  Lottery automatically withholds taxes for winnings more than $5,000    Social Security Benefits  o PA does not tax social security benefits",
+        "summary": "Income thresholds determine financial assistance levels in Pennsylvania, with payments of $770 for incomes up to $15,511, $460 for $15,511 to $18,610, and $380 for $18,611 to $46,520. The state imposes a 6% sales tax on consumer goods, a 57.6 cent per gallon tax on motor fuels, and an 18% sales tax on alcohol, with an additional 6% tax. Pennsylvania does not tax social",
+        "timestamp": "2025-04-21T21:20:07.674345",
+        "token_count": 161
+    },
+    {
+        "chunk_id": 7,
+        "chunk_name": "Taxation on Social Security benefits.",
+        "filename": "Taxation_on_Social_Security_benefits._007.txt",
+        "original_chunk_text": ", but you may pay federal taxes on portions of  the social security benefits  \u25aa  Age 65 or older  \u25aa  Widow or widower 50 or older  \u25aa  Disabled person age 18 or older    Up to 50% of the benefits can be taxed if you final for individual tax  returns and make $25,000 to $34,000 for individual    $32,000 to $44,000 for married couple filed jointly    85% for benefits if more than $34,000 individual, $$44,000 for  married  https://states.aarp.org/pennsylvania/statetaxesguide     Tax forgiveness",
+        "summary": "Social Security benefits may be subject to federal taxes for individuals aged 65 or older, widows or widowers aged 50 or older, and disabled persons aged 18 or older. Up to 50% of benefits can be taxed for individuals earning $25,000 to $34,000, and 85% for those earning over $34,000; for married couples, the thresholds are $32,000 to $44,000.",
+        "timestamp": "2025-04-21T21:20:10.868329",
+        "token_count": 134
+    }
+]
